@@ -3,8 +3,6 @@ title: Landing
 layout: default
 ---
 
-#Hello World!!
-
-A site using jekyll and markdown and stuff.
+Andrew Famiglietti is a teacher, developer and media scholar. 
 
 {% include_relative footer.html %}
