@@ -3,3 +3,8 @@ footer {
   bottom: 0px;
   width: 100%;
 }
+
+body {
+  background-color: #292737;
+  color: #f1eace;
+}
