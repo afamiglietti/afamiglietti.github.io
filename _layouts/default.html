@@ -4,10 +4,12 @@
 {% include meta.html %}
 </head>
 <body>
-  {% include header.html %}
-<div class="container-fluid main-content">
 
+<div class="container-fluid main-content">
+  {% include header.html %}
   {{content}}
+  {% include footer.html %}
+
 </div>
 </body>
 </html>
