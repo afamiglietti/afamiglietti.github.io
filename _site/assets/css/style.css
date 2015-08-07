@@ -5,12 +5,18 @@ footer {
   position: fixed;
   bottom: 0px;
   left: 0px;
-  height: 50px;
+  height: 35px;
   width: 100%;
-  padding: 20px;
+  padding: 10px;
   font-family: 'Source Code Pro', serif;
   font-size: 1.25em;
+  background-color: #0f0f0f;
 
+}
+
+h3 {
+  margin: 10px 0 5px 0;
+  font-size: 22px;
 }
 
 a {
@@ -66,7 +72,7 @@ body {
 .page-header {
   color: #86FA00;
   margin: 0;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   border: none;
 }
 
@@ -107,7 +113,7 @@ body {
 
 .endcap {
   text-align: center;
-  margin-top: 40px;
-  padding-top: 20px;
+  margin-top: 20px;
+  padding-top: 10px;
   border-top: #ddd 1px solid;
 }
