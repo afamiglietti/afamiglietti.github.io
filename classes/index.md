@@ -10,10 +10,10 @@ layout: twin_column
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu ex. Donec a justo eget libero rutrum auctor. Ut non nisi congue, maximus nibh nec, tristique nunc. Mauris ac ex risus. Praesent semper arcu nec purus blandit posuere. Cras sollicitudin urna et libero varius, ac malesuada nisi interdum. Donec malesuada rhoncus nibh, vitae pretium dui aliquam quis.
       <br>
       <br>
-      <table class="table">
-        <tr><td>Overview</td></tr>
-        <tr><td>Calendar</td></tr>
-        <tr><td>Assignments</td></tr>
+      <table class="course_nav">
+        <tr><td><a href="/classes/com201">Overview and Goals<span class="sr-only">for Com 201</span></a></td></tr>
+        <tr><td><a href="/classes/com201/calendar.html">Calendar<span class = "sr-only">of activities and assignments for com 201</span></a></td></tr>
+        <tr><td><a href="/classes/com201/assignments.html">Assignments <span class="sr-only">for com 201</span></a></td></tr>
       </table>
     </div>
     <div class="content-column-multiple col-md-6">
@@ -21,10 +21,10 @@ layout: twin_column
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu ex. Donec a justo eget libero rutrum auctor. Ut non nisi congue, maximus nibh nec, tristique nunc. Mauris ac ex risus. Praesent semper arcu nec purus blandit posuere. Cras sollicitudin urna et libero varius, ac malesuada nisi interdum. Donec malesuada rhoncus nibh, vitae pretium dui aliquam quis.
       <br>
       <br>
-      <table class="table">
-        <tr><td>Overview</td></tr>
-        <tr><td>Calendar</td></tr>
-        <tr><td>Assignments</td></tr>
+      <table class="course_nav">
+        <tr><td><a href="/classes/com372">Overview and Goals<span class="sr-only">for Com 372</span></a></td></tr>
+        <tr><td><a href="/classes/com372/calendar.html">Calendar<span class = "sr-only">of activities and assignments for com 372</span></a></td></tr>
+        <tr><td><a href="/classes/com372/assignments.html">Assignments <span class="sr-only">for com 372</span></a></td></tr>
       </table>
     </div>
   </div>

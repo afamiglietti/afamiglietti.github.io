@@ -5,4 +5,13 @@
     {% else %}
     <div class="main-subtitle">{{ page.title }}</div>
     {% endif %}
+    {% if page.tags contains "syllabus_page" %}
+    <div class="secondary_nav">
+        <ul class="list-unstyled">
+          <li><a href="/classes/{{ page.category }}">Overview</a></li>
+          <li><a href="/classes/{{ page.category }}/calendar.html">Calendar</a></li>
+          <li><a href="/classes/{{ page.category }}/assignments.html">Assignments</a></li>
+        </ul>
+    </div>
+    {% endif %}
 </div>
