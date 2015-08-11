@@ -1,6 +1,11 @@
 <script type="text/javascript">
+  var now = moment()
   var nowDateTime = new Date();
-  var today = nowDateTime.toISOString().split('T');
-  var currentDiv = document.getElementById('current');
-  currentDiv.innerHTML = today[0];
+  var currentDiv = document.getElementById('next_meeting');
+  var meetingDiv = document.getElementById(now.format("YYYY-MM-DD"));
+  while(meetingDiv == null){
+    now = now.add(1, 'days');
+    meetingDiv = document.getElementById(now.format("YYYY-MM-DD"));
+  }
+  currentDiv.innerHTML = meetingDiv.innerHTML;
 </script>

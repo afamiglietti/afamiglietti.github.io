@@ -1,6 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=VT323);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
 
+body {
+  background-image: url(../img/wall.jpg);
+  font-family: 'Source Code Pro', serif;
+  padding: 150px 0 0 0;
+}
+
 footer {
   position: fixed;
   bottom: 0px;
@@ -43,6 +49,17 @@ footer a:visted {
   text-decoration: none;
 }
 
+#headshot {
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#meeting_jumbo {
+  background: inherit;
+  border: 1px solid #ddd;
+}
+
 .page-header a {
   color: #86FA00;
   text-decoration: none;
@@ -58,23 +75,16 @@ footer a:visted {
   text-decoration: none;
 }
 
-
-body {
-  background-image: url(../img/wall.jpg);
-  font-family: 'Source Code Pro', serif;
-}
-
-#headshot {
-  float: right;
-  margin-top: 10px;
-  margin-left: 10px;
-}
-
 .page-header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
   color: #86FA00;
   margin: 0;
-  margin-bottom: 40px;
+  width: 100%;
   border: none;
+  background-color: #0f0f0f;
+  z-index: 3;
 }
 
 .page-header h1 {
