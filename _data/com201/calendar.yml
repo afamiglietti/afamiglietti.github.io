@@ -20,18 +20,19 @@
   assignment_link:
 
 - date: 2015-08-31
-  readings:
-    - title: Meet The New Boss, Worse Than The Old Boss? (David Lowery)
-      link: http://thetrichordist.com/2012/04/15/meet-the-new-boss-worse-than-the-old-boss-full-post/
-  in_class: Discuss the ethical grounds for authors to claim "ownership" of their creative work.
-  assignment: In your notes document, briefly summarize your response to Lowery's argument. What was most convincing about his position? What was less convincing?
-  assignment_link:
+   readings:
+     - title: "Balance Toppled: Who Owns the Bits? (Chapter Six of Blown to Bits)"
+       link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf
+   in_class: Discuss how digital technology disrupts the copyright balance. What is it about the Internet that makes copyright so contentious?
+   assignment:
+   assignment_link:
 
 - date: 2015-09-02
   readings:
-    - title:
-  in_class:
-  assignment:
+    - title: "Remix: How Creativity is Being Strangled by Law (Chapter 11 of The Social Media Reader)"
+      link: https://ia802603.us.archive.org/35/items/TheSocialMediaReader/Mandiberg-theSocialMediaReader-cc-by-sa-nc.pdf
+  in_class: Discuss the creative potential of remix, and introduce the <em>re-use norms assignment</em> and the <em>mash-up assignment</em>. (See the <a href="/classes/com201/assignments.html">Assignments page</a> for details).
+  assignment: In your notes document, define "remix" in your own words and explain why Lessig thinks the remix form is important. What do you think? Is remix an important form of creativity/expression for your peers?
   assignment_link:
 
 - date: 2015-09-04
@@ -48,32 +49,40 @@
 
 - date: 2015-09-09
   readings:
-  in_class:
-  assignment:
+    - title: Meet The New Boss, Worse Than The Old Boss? (David Lowery)
+      link: http://thetrichordist.com/2012/04/15/meet-the-new-boss-worse-than-the-old-boss-full-post/
+  in_class: Discuss the ethical grounds for authors to claim "ownership" of their creative work.
+  assignment: In your notes document, briefly summarize your response to Lowery's argument. What was most convincing about his position? What was less convincing?
   assignment_link:
 
 - date: 2015-09-11
   readings:
-  in_class:
-  assignment:
+  in_class: Discuss the outcome of the re-use norms assignment (due today, see below for link). What are the practices of re-use in the community you chose? How well do they address the ethical concerns raised by Lessig? By Lowery?
+  assignment: Re-Use Norms Assignment
   assignment_link:
 
 - date: 2015-09-14
   readings:
-  in_class:
-  assignment:
+    - title: "Is Ism: Is the Way it Is the Way it Must Be? (Chapter Three of <em>Code</em>)"
+      link: http://codev2.cc/download+remix/Lessig-Codev2.pdf
+    - title: "Architectures of Contol (Chapter Four of <em>Code</em>)"
+      link: http://codev2.cc/download+remix/Lessig-Codev2.pdf
+  in_class: Discuss/Explore Lessig's framework for understanding how the Internet is regulated.
+  assignment: "In your notes document, briefly answer the following questions (in your own words, as always): According to Lessig, what is the 'Fallacy of is-ism,' and why does it matter? How might the technologies for authenticating Internet users Lessig describes impact the Copyright debates we've been exploring? Based on these chapters, what <em>values</em> does Lessig think the Internet ought to reflect?"
   assignment_link:
 
 - date: 2015-09-16
   readings:
-  in_class:
-  assignment:
+    - title: "What Things Regulate (Chapter Seven of <em>Code</em>)"
+      link: http://codev2.cc/download+remix/Lessig-Codev2.pdf
+  in_class: "Discuss Lessig's four forces of regulation: Laws, Norms, Markets, and Architecture"
+  assignment: "In your notes document, briefly respond to the following: Name one example of each of Lessig's four forces we have encountered in our previous class readings, discussions and activities. How do these four forces influence the debate over copyright, and the values at stake in that debate?"
   assignment_link:
 
 - date: 2015-09-18
   readings:
-  in_class:
-  assignment:
+  in_class: Mash-up day!! Share your completed mash-ups and remixes with your classmates, and discuss how each reflects your attempt to create an ethical remix.
+  assignment: Mash-up assignment
   assignment_link:
 
 - date: 2015-09-21
