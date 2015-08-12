@@ -56,8 +56,13 @@ footer a:visted {
 }
 
 #meeting_jumbo {
-  background: inherit;
+  background: rgba(30, 30, 30, .7);
   border: 1px solid #ddd;
+}
+
+#meeting_jumbo h2 {
+  margin-top: 0px;
+  font-family: 'VT323', serif;
 }
 
 .page-header a {
@@ -110,6 +115,12 @@ footer a:visted {
   padding: 0 0 50px 0;
   overflow: auto;
   height: 100%;
+}
+
+.class_meeting {
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
 }
 
 .content-column{

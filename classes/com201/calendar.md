@@ -4,7 +4,7 @@ layout: default
 tags: syllabus_page
 category: com201
 ---
-The class calendar lists all of the readings, assignments, and activities for the class. Remember that material needs to be read, and assignments completed <em>prior to</em> the class meeting they are listed for. For your convenience, I list the information for the upcoming class meeting at the top of the page, but consult the full schedule below to get a sense of what's coming up in the weeks ahead.
+This calendar lists all of the readings, assignments, and activities for the class. Remember that material needs to be read, and assignments completed <em>prior to</em> the class meeting they are listed for. For your convenience, I list the information for the upcoming class meeting at the top of the page, but consult the full schedule below to get a sense of what's coming up in the weeks ahead.
 
 <div id="meeting_jumbo" class="jumbotron">
   <h2>NEXT CLASS:</h2>
@@ -18,7 +18,11 @@ The class calendar lists all of the readings, assignments, and activities for th
   <li><em>Read:</em>
     <ul>
     {% for reading in meeting.readings %}
-      <li><a href="{{ reading.link }}">{{ reading.title }}</a></li>
+      {% if reading.link %}
+        <li><a href="{{ reading.link }}">{{ reading.title }}</a></li>
+      {% else %}
+        <li>{{ reading.title }}</li>
+      {% endif %}
     {% endfor %}
     </ul>
     </li>  
