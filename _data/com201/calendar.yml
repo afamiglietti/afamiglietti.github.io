@@ -19,7 +19,7 @@
   assignment: "Answer the question: Was it <em>ethical</em> for Aaron Swartz to download the articles he did from JSTOR? in your google notes doc and come to class ready to discuss."
   assignment_link:
 
-- date: 2015-08-31
+-  date: 2015-08-31
    readings:
      - title: "Balance Toppled: Who Owns the Bits? (Chapter Six of Blown to Bits)"
        link: http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf
@@ -87,26 +87,38 @@
 
 - date: 2015-09-21
   readings:
-  in_class:
-  assignment:
+    - title: "The Hive (from <em>The Atlantic</em>)"
+      link: http://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/
+  in_class: Discuss Wikipedia as described in "The Hive."
+  assignment: In your notes document, describe how Norms, Laws, Markets and Architecture influence the activities of Wikipedians.
   assignment_link:
 
 - date: 2015-09-23
   readings:
-  in_class:
-  assignment:
+    - title: "Theory of Communicative Action, Habermas's Discourse Theory, Habermas's Theory of Truth and Knowledge, and Habermas's Theory of Truth and Knowledge (Sections 3.1-3.3 of the entry on Jürgen Habermas in <em>Stanford Encyclopedia of Philosophy</em>)"
+      link: http://plato.stanford.edu/entries/habermas/#TheComAct
+  in_class: Discuss Habermas's theories of Communicative Action and Discourse Ethics. Explore how these theories give us tools for thinking about values and ethical behavior.
+  assignment: "In your notes document, briefly respond to the following: Define 'Communicative Action' and 'Discourse Ethics' in your own words. Based on our reading from last class and your prior experience with the site, what do you think Habermas would make of Wikipedia?"
   assignment_link:
 
 - date: 2015-09-25
   readings:
-  in_class:
+    - title: "Five Pillars (Wikipedia Policy)"
+      link: https://en.wikipedia.org/wiki/Wikipedia:Five_pillars
+    - title: "Neutral Point of View (Wikipedia Policy)"
+      link: https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
+    - title: "Civility (wikipedia Policy)"
+      link: https://en.wikipedia.org/wiki/Wikipedia:Civility
+  in_class: "Discuss Wikipedia's main policies. Introduce the Wikipedia monitoring assignment and work on setting up accounts and starting watchlists (Bring laptops!!)."
   assignment:
   assignment_link:
 
 - date: 2015-09-28
   readings:
-  in_class:
-  assignment:
+    - title: "The Covert World of People Trying to Edit Wikipedia, for Pay"
+      link: http://www.theatlantic.com/business/archive/2015/08/wikipedia-editors-for-pay/393926/
+  in_class: Discuss the ethical implications of paid Wikipedia editing.
+  assignment: "In your notes document, respond to the following: Explain what you think Habermas would say about paid Wikipedia editing. What do you think of the practice? Is Wikipedia doing enought to stop paid editing? Can it do more?"
   assignment_link:
 
 - date: 2015-09-30
@@ -123,19 +135,19 @@
 
 - date: 2015-10-05
   readings:
-  in_class:
-  assignment:
+  in_class: Review and discuss the Wikipedia monitoring assignment. What did you learn about the ethics of Wikipedia?
+  assignment: Wikipedia monitoring assignment.
   assignment_link:
 
 - date: 2015-10-07
   readings:
-  in_class:
-  assignment:
+  in_class: Review class to date in preperation for the mid-term exam.
+  assignment: "In your notes document, write a short (200-300 word) reflection on our class so far. What's the most interesting thing you've learned? What ideas are you still struggling with? Why?"
   assignment_link:
 
 - date: 2015-10-09
   readings:
-  in_class:
+  in_class: "<strong>MID-TERM EXAM</strong>"
   assignment:
   assignment_link:
 
