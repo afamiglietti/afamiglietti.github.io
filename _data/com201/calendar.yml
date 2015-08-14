@@ -13,7 +13,7 @@
 - date: 2015-08-28
   readings:
     - title: Internet's Own Boy (film).
-      link: https://www.youtube.com/watch?v=vXr-2hwTk58
+      link: https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz
     - title: NOTE You need to screen the film, which is about 1 hour and 45 minutes long, <em>before</em> our class meeting.
   in_class: Discuss the contested morality of copyright. What ethical claims do authors and consumers make with regards to access to information?
   assignment: "Answer the question: Was it <em>ethical</em> for Aaron Swartz to download the articles he did from JSTOR? in your google notes doc and come to class ready to discuss."
@@ -31,7 +31,7 @@
   readings:
     - title: "Remix: How Creativity is Being Strangled by Law (Chapter 11 of The Social Media Reader)"
       link: https://ia802603.us.archive.org/35/items/TheSocialMediaReader/Mandiberg-theSocialMediaReader-cc-by-sa-nc.pdf
-  in_class: "Discuss the creative potential of remix, and introduce the <em>re-use norms assignment</em> and the <em>mash-up assignment</em>. (See the <a href='/classes/com201/assignments.html'>Assignments page</a> for details)."
+  in_class: "Discuss the creative potential of remix, and introduce the <em>mash-up assignment</em>. (See the <a href='/classes/com201/assignments.html'>Assignments page</a> for details)."
   assignment: "In your notes document, define 'remix' in your own words and explain why Lessig thinks the remix form is important. What do you think? Is remix an important form of creativity/expression for your peers?"
   assignment_link:
 
@@ -57,8 +57,8 @@
 
 - date: 2015-09-11
   readings:
-  in_class: "Discuss the outcome of the re-use norms assignment (due today, see below for link). What are the practices of re-use in the community you chose? How well do they address the ethical concerns raised by Lessig? By Lowery?"
-  assignment: "Re-Use Norms Assignment"
+  in_class: "Discuss the mash-ups and remixes you discovered for notes today. What sorts of re-use <em>norms</em> do these mash-ups and remixes demonstrate? How well do they address the ethical concerns raised by Lessig? By Lowery?"
+  assignment: "In your notes document, share a mash-up or remix you discovered and briefly describe it. Include a link to the mash-up or remix, a brief description, and a brief reflection on the remix or mash-ups reuse of existing creative work. Did the author(s) of the remix or mash-up credit their sources? Did they have the permission of the original source? Did they transform the source into something genuinely new? Did they make money from this remix/mash-up?"
   assignment_link:
 
 - date: 2015-09-14
@@ -123,13 +123,21 @@
 
 - date: 2015-09-30
   readings:
-  in_class:
-  assignment:
+    - title: "The King of Content (Columbia Journalism Review)"
+      link: http://www.cjr.org/feature/the_king_of_content.php?page=all
+    - title: "The Answer Factory (Wired)"
+      link: http://www.wired.com/2009/10/ff_demandmedia/all/1
+  in_class: Discuss the ethics of Upworthy and Demand Media.
+  assignment: "In your notes document, briefly respond to the following: How would you evaluate Upworthy and Demand Media according to the terms of Discourse Ethics? In what ways are they acting as ethical communicators? In what ways might they not be?"
   assignment_link:
 
 - date: 2015-10-02
   readings:
-  in_class:
+    - title: "Facebook's Unethical Experiment (Slate)"
+      link: http://www.slate.com/articles/health_and_science/science/2014/06/facebook_unethical_experiment_it_made_news_feeds_happier_or_sadder_to_manipulate.html
+    - title: "Facebook and Engineering the Public (Medium)"
+      link: https://medium.com/message/engineering-the-public-289c91390225
+  in_class: Discuss the implications of "Engineering Consent" for Habermas's Discourse Ethics.
   assignment:
   assignment_link:
 
@@ -159,110 +167,142 @@
 
 - date: 2015-10-14
   readings:
-  in_class:
-  assignment:
+    - title: "Where are the Women in Wikipedia (New York Times)"
+      link: http://www.nytimes.com/roomfordebate/2011/02/02/where-are-the-women-in-wikipedia
+    - title: "NOTE: The link above leads to a summary page with links to short pieces by several authors, click through the links to read each short piece"
+  in_class: Discuss Wikipedia's gender gap.
+  assignment: "In your notes document, answer the following: How might Wikipedia's gender gap force us to re-evaluate Habermas's ideal speech situation?"
   assignment_link:
 
 - date: 2015-10-16
   readings:
-  in_class:
-  assignment:
+    - title: "Care as Practice and Value (document to be distributed)"
+  in_class: Discuss the Ethics of Care. Introduce the Technology of Care assignment.
+  assignment: "In your notes document, briefly compare and contrast the Ethics of Care and Discourse Ethics."
   assignment_link:
 
 - date: 2015-10-19
   readings:
-  in_class:
-  assignment:
+    - title: "Wikipedia votes to ban some editors from gender-related articles (The Guardian)"
+      link: http://www.theguardian.com/technology/2015/jan/23/wikipedia-bans-editors-from-gender-related-articles-amid-gamergate-controversy
+    - title: "Gamergate Controversy (Wikipedia)"
+      link: https://en.wikipedia.org/wiki/Gamergate_controversy
+  in_class: Discuss the Wikipedia response to Gamergate.
+  assignment: "In your notes document, explain what you think of Wikipedia's attempt to handle the Gamergate controversy."
   assignment_link:
 
 - date: 2015-10-21
   readings:
-  in_class:
-  assignment:
+    - title: "Women and the Internet (Medium)"
+      link: https://medium.com/@quinnnorton/online-and-offline-violence-towards-women-4c854eb591a5
+    - title: "NOTE: Link above is to Part 1 of the series. Follow the links in part 1 to parts 2-4"
+  in_class: Discuss Quinn Norton's exploration of gender online.
+  assignment: "In your notes document, respond to Norton's piece. What do you think we should do to address the problems she describes?"
   assignment_link:
 
 - date: 2015-10-23
   readings:
-  in_class:
-  assignment:
+    - title: TBA
+  in_class: TBA
+  assignment: TBA
   assignment_link:
 
 - date: 2015-10-26
   readings:
-  in_class:
-  assignment:
+    - title: "The Internet's Original Sin (The Atlantic)"
+      link: http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/
+  in_class: Discuss advertising and privacy in social networks.
+  assignment: Notes Assignment. Prompt TBA.
   assignment_link:
 
 - date: 2015-10-28
   readings:
-  in_class:
-  assignment:
+    - title: "What does an Ethical Social Networking Software Look Like? (Medium)"
+      link: https://medium.com/message/what-does-ethical-social-networking-software-look-like-315373c898ed
+  in_class: Discuss Quinn Norton's thoughts about Ello, and our own.
+  assignment: Spend some time investigating <a href="https://ello.co/beta-public-profiles">ello</a> and write up your thoughts in your notes document.
   assignment_link:
 
 - date: 2015-10-30
   readings:
-  in_class:
-  assignment:
+    - title: "Social Privacy in Networked Publics: Teens' Attitudes, Pracices and Strategies (Social Science Researcg Network)"
+      link: http://ssrn.com/abstract=1925128
+    - title: "NOTE: Link above leads to a paper abstract. Be sure to click the blue button labelled 'download this paper' to download and read the full paper!!"
+  in_class: Discuss the implications of social privacy practices adopted by Facebook users. What values might these practices re-inforce? What values might they challenge?
+  assignment: Notes Assignment. Prompt TBA.
   assignment_link:
 
 - date: 2015-11-02
   readings:
-  in_class:
-  assignment:
+    - title: TBA
+  in_class: TBA
+  assignment: TBA
   assignment_link:
 
 - date: 2015-11-04
   readings:
-  in_class:
-  assignment:
+    - title: "Should Twitter, Facebook, and Google Executives be the Arbiters of What We See and Read? (The Intercept)"
+      link: https://firstlook.org/theintercept/2014/08/21/twitter-facebook-executives-arbiters-see-read/
+  in_class: Discuss the ethical implications of content moderation by platforms.
+  assignment: "In your notes document, briefly respond to Greenwald's argument. How well does the practice of content moderation fit with the values of Discourse Ethics? How well does it fit with the values of an Ethics of Care? What do you think of the practice?"
   assignment_link:
 
 - date: 2015-11-06
   readings:
-  in_class:
-  assignment:
+    - title: "The Laborers Who Keep Dick Pics and Beheadings Off Your Facebook Feed"
+      link: http://www.wired.com/2014/10/content-moderation/
+  in_class: Discuss the labor of content moderation.
+  assignment: "In your notes document, briefly respond to the reading. What do you think of the practice of content moderation? What might an ethics of care ask us to consider with regards to the workers who moderate content? Does the reading change how you feel about content moderation, compared to how you felt after reading the Greenwald article?"
   assignment_link:
 
 - date: 2015-11-09
   readings:
-  in_class:
-  assignment:
+  in_class: Technology of Care Assignment group presentations.
+  assignment: Technology of Care Assignment
   assignment_link:
 
 - date: 2015-11-11
   readings:
-  in_class:
-  assignment:
+    - title: "Failing the Third Machine Age: When Robots Come for Grandma"
+      link: https://medium.com/message/failing-the-third-machine-age-1883e647ba74
+  in_class: Discuss implications of digital technology for the labor of care.
+  assignment: Notes assignment. Prompt TBA.
   assignment_link:
 
 - date: 2015-11-13
   readings:
-  in_class:
+    - title: "Morality and Technology: The End of the Means (document to be distributed)"
+  in_class: Discuss how Bruno Latour blurs the lines between humans and their technologies, and what this implies for our moral choices. Introduce "Follow the Actors" assignment.
   assignment:
   assignment_link:
 
 - date: 2015-11-16
   readings:
-  in_class:
-  assignment:
+    - title: "The Surprisingly Large Energy Footprint of the Digital Economy (Time Magazine)"
+      link: http://science.time.com/2013/08/14/power-drain-the-digital-cloud-is-using-more-energy-than-you-think/
+  in_class: Discuss the ethical implications of the environmental impact of our communications infrastructure
+  assignment: Notes Assignment. Prompt TBA.
   assignment_link:
 
 - date: 2015-11-18
   readings:
-  in_class:
-  assignment:
+    - title: "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture."
+  in_class: TBA
+  assignment: TBA
   assignment_link:
 
 - date: 2015-11-20
   readings:
-  in_class:
-  assignment:
+    - title: "The Life of the Chinese Gold Farmer (NY Times)"
+      link: http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?_r=0
+  in_class: TBA
+  assignment: TBA
   assignment_link:
 
 - date: 2015-11-23
   readings:
-  in_class:
-  assignment:
+  in_class: Discuss outcomes of "Follow the Actors" assignment. What did we discover about how the technologies we use are produced?
+  assignment: Follow the Actors Assignment
   assignment_link:
 
 - date: 2015-11-25

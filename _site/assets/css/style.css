@@ -64,6 +64,23 @@ footer a:visted {
   margin-top: 0px;
   font-family: 'VT323', serif;
 }
+.assignment_box {
+  color: #86FA00;
+  height: 300px;
+  border: 1px #ddd solid;
+}
+
+.assignment_box h3 {
+  margin-bottom: 10px;
+}
+
+.assignment_box p {
+  margin_top: 10px;
+}
+
+.assignment_img {
+  margin-top: 10px;
+}
 
 .page-header a {
   color: #86FA00;

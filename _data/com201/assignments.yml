@@ -1,0 +1,55 @@
+- title: Course Notes
+  date_due: Ongoing
+  img: notebook.png
+  short_description: "As we read our various sources throughout the semeseter, you will need to complete some brief notes on each source. Usually, I will provide you with a prompt to respond to as you compose your notes. Notes are due the night before our class meeting, and must be shared with me via a google document."
+  full_description_link: notes
+  grade_percentage: "20%"
+
+- title: Participation
+  date_due: Ongoing
+  img: hands.png
+  short_description: "This class focuses on discussion and exploration of difficult ideas. Our class meetings are one of the key places where this discussion and exploration will happen. As such, you need to be engaged and active in class!"
+  full_description_link: participation
+  grade_percentage: "10%"
+
+- title: Mashup Assignment
+  date_due: September 18, 2015
+  img: Cc-sa.svg.png
+  short_description: "You will create a short audio/video mashup, working in small groups. You are free to choose any topic and format you wish, the goal is to better understand the ethics of transformative re-use through hands-on experience."
+  full_description_link: mashup
+  grade_percentage: "10%"
+
+- title: Technology of Care Assignment
+  date_due: November 9, 2015
+  img: Heart-Container-Battery-Meter.png
+  short_description: "Working in small groups, you will create a presentation introducing a hypothetical technology. This technology will be informed by the <em>Ethics of Care</em> as described by class materials."
+  full_description_link: tech_of_care
+  grade_percentage: "10%"
+
+- title: Wikipedia Observation Assignment
+  date_due: October 5, 2015
+  img: wikipedia.png
+  short_description: "You will observe the inner workings of Wikipedia, and write a short essay evaluating the Wikipedia community using Habermas's <em>Discourse Ethics</em>."
+  full_description_link: wikipedia
+  grade_percentage: "10%"
+
+- title: Follow the Actors Assignment
+  date_due: November 23, 2015
+  img: bruno_latour.png
+  short_description: "You will research one digital tool in your everyday life to uncover everything you can about the components it was assembled from, and the possible ethical problems raised by these components."
+  full_description_link: follow_actors
+  grade_percentage: "10%"
+
+- title: "Mid-Term Exam"
+  date_due: October 9, 2015
+  img:
+  short_description: "An in class exam testing your knowledge of the material covered during the first half of our class. Short response format."
+  full_description_link: midterm
+  grade_percentage: "15%"
+
+- title: Final Exam
+  date_due: "See SJU Final Exam calendar"
+  img:
+  short_description: "A collaborative final exam. Your class will work together to respond to a prompt connected to class ideas and readings."
+  full_description_link:
+  grade_percentage: "15%"

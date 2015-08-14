@@ -19,7 +19,7 @@ This calendar lists all of the readings, assignments, and activities for the cla
     <ul>
     {% for reading in meeting.readings %}
       {% if reading.link %}
-        <li><a href="{{ reading.link }}">{{ reading.title }}</a></li>
+        <li><a href="{{ reading.link }}" target="_blank">{{ reading.title }}</a></li>
       {% else %}
         <li>{{ reading.title }}</li>
       {% endif %}
