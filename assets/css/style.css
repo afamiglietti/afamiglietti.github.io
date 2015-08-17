@@ -20,6 +20,10 @@ footer {
 
 }
 
+h2 {
+  font-family: 'VT323', serif;
+}
+
 h3 {
   margin: 10px 0 5px 0;
   font-size: 22px;

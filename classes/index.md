@@ -7,7 +7,7 @@ layout: twin_column
   <div class="row">
     <div class="content-column-multiple col-md-6">
       <h3>Com 201: Communications Ethics</h3>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu ex. Donec a justo eget libero rutrum auctor. Ut non nisi congue, maximus nibh nec, tristique nunc. Mauris ac ex risus. Praesent semper arcu nec purus blandit posuere. Cras sollicitudin urna et libero varius, ac malesuada nisi interdum. Donec malesuada rhoncus nibh, vitae pretium dui aliquam quis.
+      What does the rise of the digital network mean for human values? This is the key question this course will explore. As we will see, our values are neither controlled by this network, nor left alone by it. Instead, values and technology interact in complex ways that can produce opportunities for various forms of social good as well as risks for various forms of social harm.
       <br>
       <br>
       <table class="course_nav">

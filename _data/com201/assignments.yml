@@ -19,18 +19,18 @@
   full_description_link: mashup
   grade_percentage: "10%"
 
-- title: Technology of Care Assignment
-  date_due: November 9, 2015
-  img: Heart-Container-Battery-Meter.png
-  short_description: "Working in small groups, you will create a presentation introducing a hypothetical technology. This technology will be informed by the <em>Ethics of Care</em> as described by class materials."
-  full_description_link: tech_of_care
-  grade_percentage: "10%"
-
 - title: Wikipedia Observation Assignment
   date_due: October 5, 2015
   img: wikipedia.png
   short_description: "You will observe the inner workings of Wikipedia, and write a short essay evaluating the Wikipedia community using Habermas's <em>Discourse Ethics</em>."
   full_description_link: wikipedia
+  grade_percentage: "10%"
+
+- title: Technology of Care Assignment
+  date_due: November 9, 2015
+  img: Heart-Container-Battery-Meter.png
+  short_description: "Working in small groups, you will create a presentation introducing a hypothetical technology. This technology will be informed by the <em>Ethics of Care</em> as described by class materials."
+  full_description_link: tech_of_care
   grade_percentage: "10%"
 
 - title: Follow the Actors Assignment
@@ -44,7 +44,7 @@
   date_due: October 9, 2015
   img: notebook.png
   short_description: "An in class exam testing your knowledge of the material covered during the first half of our class. Short response format."
-  full_description_link: midterm
+  full_description_link: 
   grade_percentage: "15%"
 
 - title: Final Exam
