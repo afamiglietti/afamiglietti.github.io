@@ -42,14 +42,14 @@
 
 - title: "Mid-Term Exam"
   date_due: October 9, 2015
-  img:
+  img: notebook.png
   short_description: "An in class exam testing your knowledge of the material covered during the first half of our class. Short response format."
   full_description_link: midterm
   grade_percentage: "15%"
 
 - title: Final Exam
   date_due: "See SJU Final Exam calendar"
-  img:
+  img: notebook.png
   short_description: "A collaborative final exam. Your class will work together to respond to a prompt connected to class ideas and readings."
   full_description_link:
   grade_percentage: "15%"
