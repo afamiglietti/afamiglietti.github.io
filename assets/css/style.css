@@ -72,6 +72,7 @@ footer a:visted {
   color: #86FA00;
   height: 350px;
   border: 1px #ddd solid;
+  overflow: auto;
 }
 
 .assignment_box h3 {
