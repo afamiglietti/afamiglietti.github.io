@@ -10,12 +10,14 @@ category: com201
     <div class="content-column-multiple col-md-8">
       <h3>Communications Ethics: Overview</h3>
       <p>
+      <img class="pull-right img-responsive" src="/assets/img/internet-1969.jpg">
       The last three decades have witnessed the meteoric rise of the Internet as a communications medium. During the 1980s, the Internet was mostly of interest to a handful of academics and hobbyists. Today, it is at the very center of our communicative environment, linking billions of people in a network unprecedented in speed and scope.
       </p>
       <p>
       What does the rise of the digital network mean for human values? This is the key question this course will explore. As we will see, our values are neither controlled by this network, nor left alone by it. Instead, values and technology interact in complex ways that can produce opportunities for various forms of social good as well as risks for various forms of social harm.
       </p>
       <p>
+      <img class="pull-right img-responsive" src="/assets/img/internet_now.png">
       Each of us, as citizens who will live in a society that consumes, produces and regulates digital media will make important choices that will influence the values these media reflect. This course seeks to help students prepare to make these choices.
       </p>
       <br>
