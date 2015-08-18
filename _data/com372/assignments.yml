@@ -1,0 +1,41 @@
+- title: Inspiration Notebook
+  date_due: Ongoing
+  img: notebook.png
+  short_description: ""
+  full_description_link: inspiration
+  grade_percentage: "10%"
+
+- title: Class Exercises and Quizzes
+  date_due: Ongoing
+  img:
+  short_description:
+  full_description_link: exercises
+  grade_percentage: "20%"
+
+- title: HTML/CSS Assignment
+  date_due:
+  img:
+  short_description:
+  full_description_link: html_css
+  grade_percentage: "10%"
+
+- title: Wordpress Assignment
+  date_due:
+  img:
+  short_description: ""
+  full_description_link: wordpress
+  grade_percentage: "20%"
+
+- title: Jekyll Assignment
+  date_due:
+  img:
+  short_description: ""
+  full_description_link: jekyll
+  grade_percentage: "20%"
+
+- title: Final Portfolio
+  date_due: "Final exam date for your section. See SJU Final Exam Calendar for Details"
+  img:
+  short_description: ""
+  full_description_link: portfolio
+  grade_percentage: "20%"

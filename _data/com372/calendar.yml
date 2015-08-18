@@ -1,11 +1,13 @@
-	- date: 2015-08-24
+- date: 2015-08-24
   readings:
-  in_class:
+  in_class: Discuss class teaching style, goals, and syllabus.
   assignment:
   assignment_link:
 
 - date: 2015-08-26
   readings:
+    - title: Selections from "In The Beginning Was The Command Line"
+      link: /classes/com372/readings/in_the_beginning.html 
   in_class:
   assignment:
   assignment_link:
@@ -30,13 +32,13 @@
 
 - date: 2015-09-04
   readings:
-  in_class:
+  in_class: "NO CLASS MEETING - PROFESSOR AT CONFERENCE"
   assignment:
   assignment_link:
 
 - date: 2015-09-07
   readings:
-  in_class:
+  in_class: "NO CLASS MEETING - LABOR DAY"
   assignment:
   assignment_link:
 
@@ -126,7 +128,7 @@
 
 - date: 2015-10-12
   readings:
-  in_class:
+  in_class: "NO CLASS MEETING - FALL BREAK"
   assignment:
   assignment_link:
 
@@ -156,8 +158,9 @@
 
 - date: 2015-10-23
   readings:
-  in_class:
-  assignment:
+    - title: TBA
+  in_class: TBA
+  assignment: TBA
   assignment_link:
 
 - date: 2015-10-26
@@ -240,30 +243,30 @@
 
 - date: 2015-11-25
   readings:
-  in_class:
+  in_class: "NO CLASS MEETING - THANKSGIVING"
   assignment:
   assignment_link:
 
 - date: 2015-11-27
   readings:
-  in_class:
+  in_class: "NO CLASS MEETING - THANKSGIVING"
   assignment:
   assignment_link:
 
 - date: 2015-11-30
   readings:
-  in_class:
+  in_class: Work on Final Porfolio
   assignment:
   assignment_link:
 
 - date: 2015-12-02
   readings:
-  in_class:
+  in_class: Work on Final Portfolio
   assignment:
   assignment_link:
 
 - date: 2015-12-04
   readings:
-  in_class:
+  in_class: Work on Final Portfolio
   assignment:
   assignment_link:

@@ -1,9 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=VT323);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
+@import url(http://fonts.googleapis.com/css?family=Inconsolata);
 
 body {
   background-image: url(../img/wall.jpg);
-  font-family: 'Source Code Pro', serif;
+  font-family: 'Inconsolata', serif;
   padding: 150px 0 0 0;
 }
 

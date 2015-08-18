@@ -17,8 +17,8 @@ layout: twin_column
       </table>
     </div>
     <div class="content-column-multiple col-md-6">
-      <h3>Com 372: Web Design</h3>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu ex. Donec a justo eget libero rutrum auctor. Ut non nisi congue, maximus nibh nec, tristique nunc. Mauris ac ex risus. Praesent semper arcu nec purus blandit posuere. Cras sollicitudin urna et libero varius, ac malesuada nisi interdum. Donec malesuada rhoncus nibh, vitae pretium dui aliquam quis.
+      <h3>Com 372: Web Design and Development</h3>
+      This class is an introduction to the fundamentals of web design and development. No prior experience is necessary. Students will gain an understanding of the fundamental syntax of html and css, and the principles of design for the web environment. These basic literacies will help students understand how to organize information, and prepare them to design interactive multimedia texts using a variety of platforms and tools.  
       <br>
       <br>
       <table class="course_nav">
