@@ -7,33 +7,47 @@
 - date: 2015-08-26
   readings:
     - title: Selections from "In The Beginning Was The Command Line"
-      link: /classes/com372/readings/in_the_beginning.html 
+      link: /classes/com372/readings/in_the_beginning.html
   in_class:
   assignment:
   assignment_link:
 
 - date: 2015-08-28
   readings:
-  in_class:
-  assignment:
+    - title: "Mozilla Developer's Network(MDN): Intro to HTML"
+      link: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+  in_class: "<strong>QUIZ:</strong> Basic tag syntax and HTML terminology. In class tagging exercises using CodePen"
+  assignment: "Sign up for a free <a href="http://codepen.io/">Code Pen</a> account prior to class today and email a link to your account page to the instructor."
   assignment_link:
 
 - date: 2015-08-31
   readings:
-  in_class:
+    - title: "Nesting"
+      link: http://www.bu.edu/tech/services/comm/websites/www/non-wordpress/start/html-introduction/syntax/nesting-tags/
+    - title: "HTML Dog: Lists"
+      link: http://htmldog.com/guides/html/beginner/lists/
+    - title: "MDN: &lt;ul&gt; - HTML"
+      link: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+  in_class: "<strong>QUIZ:</strong> Lists and Nesting. Code Pen exercises on nested elements and tagging. Discussion of how to read MDN documentation pages."
   assignment:
   assignment_link:
 
 - date: 2015-09-02
   readings:
-  in_class:
+    - title: "HTML Dog: Tags, Attributes and Elements"
+      link: http://htmldog.com/guides/html/beginner/tags/
+    - title: "MDN: &lt;a&gt; - HTML"
+      link: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+    - title: "MDN: Global Attributes"
+      link: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes
+  in_class: "<strong>QUIZ:</strong> Attributes and tags. Code Pen exercises on links, link attributes (href and target), and the id and class attributes."
   assignment:
   assignment_link:
 
 - date: 2015-09-04
   readings:
   in_class: "NO CLASS MEETING - PROFESSOR AT CONFERENCE"
-  assignment:
+  assignment: By today, have the class virtual machine installed.
   assignment_link:
 
 - date: 2015-09-07
@@ -44,13 +58,23 @@
 
 - date: 2015-09-09
   readings:
-  in_class:
-  assignment:
+    - title: "Opening a terminal and getting started in the class virtual machine"
+      link: "/classes/com372/readings/virtual_machine.html"
+    - title: "Learning the shell: What is the shell?"
+      link: http://linuxcommand.org/lc3_lts0010.php
+    - title: "Learning the shell: Navigation"
+      link: http://linuxcommand.org/lc3_lts0020.php
+  in_class: Intro to the command line. Shell exercises, and file system scavenger hunt.
+  assignment: "Before class, sign up for a free <a href="https://github.com/">github</a> account and email the instructor your profile page."
   assignment_link:
 
 - date: 2015-09-11
   readings:
-  in_class:
+    - title: "Hypertext Markup Language"
+      link: https://en.wikibooks.org/wiki/HyperText_Markup_Language/Head_and_Body
+    - title: "Github Pages"
+      link: https://pages.github.com/  
+  in_class: "<strong>QUIZ:</strong> HTML document structure. In-class exercise: creating our first html documents, linking them, and uploading them to github pages."
   assignment:
   assignment_link:
 
