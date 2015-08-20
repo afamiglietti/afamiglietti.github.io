@@ -1,10 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=VT323);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
 @import url(http://fonts.googleapis.com/css?family=Inconsolata);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url(http://fonts.googleapis.com/css?family=Oxygen);
 
 body {
-  background-image: url(../img/wall.jpg);
-  font-family: 'Inconsolata', serif;
+  background-image: url(../img/static.jpg);
+  font-family: 'Oxygen', sans-serif;
   padding: 150px 0 0 0;
 }
 
@@ -31,12 +34,12 @@ h3 {
 }
 
 a {
-  color: #86FA00;
+  color: black;
   text-decoration: underline;
 }
 
 a:hover {
-  color: #DEFDBB;
+  color: #86FA00;
 }
 
 footer a {
@@ -70,7 +73,7 @@ footer a:visted {
   font-family: 'VT323', serif;
 }
 .assignment_box {
-  color: #86FA00;
+  color: black;
   height: 350px;
   border: 1px #ddd solid;
   overflow: auto;
@@ -140,6 +143,7 @@ footer a:visted {
   padding: 0 0 50px 0;
   overflow: auto;
   height: 100%;
+  background: rgba(255, 255, 255, .5);
 }
 
 .class_meeting {
@@ -150,12 +154,12 @@ footer a:visted {
 
 .content-column{
   padding: 0;
-  color: #86FA00;
+  color: black;
 }
 
 .content-column-multiple{
   padding: 0 15px 0 0;
-  color: #86FA00;
+  color: black;
 }
 
 .course_nav a {
