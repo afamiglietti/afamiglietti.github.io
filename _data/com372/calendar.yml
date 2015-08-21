@@ -187,8 +187,8 @@
     - title: "Wordpress Codex: Using Themes"
       link: https://codex.wordpress.org/Using_Themes
   in_class: "Wordpress refresher and setting up a new wordpress instance on Reclaim for Design work."
-  assignment: "HTML/CSS Project Due"
-  assignment_link:
+  assignment: "HTML/CSS Project"
+  assignment_link: "/classes/com372/assignments/html_css.html"
 
 - date: 2015-10-12
   readings:
@@ -255,7 +255,7 @@
       link: "http://getbootstrap.com/css/#grid"
   in_class: "Bootstrap Intro Exercise. Discussion of Inspiration Notebook Examples."
   assignment: Wordpress Assignment
-  assignment_link:
+  assignment_link: "/classes/com372/assignments/wordpress.html"
 
 - date: 2015-11-02
   readings:
@@ -353,8 +353,8 @@
 - date: 2015-11-30
   readings:
   in_class: Work on Final Porfolio - Planning
-  assignment: Jekyll Project Due
-  assignment_link:
+  assignment: Jekyll Project
+  assignment_link: "/classes/com372/assignments/jekyll.html"
 
 - date: 2015-12-02
   readings:

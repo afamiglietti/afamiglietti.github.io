@@ -1,41 +1,41 @@
 - title: Inspiration Notebook
   date_due: Ongoing
   img: notebook.png
-  short_description: ""
+  short_description: "You will collect a set of four websites to serve as design inpirations for your work. For each website, I have prepared a series of prompts to help you reflect on and learn from the site's design."
   full_description_link: inspiration
   grade_percentage: "10%"
 
 - title: Class Exercises and Quizzes
   date_due: Ongoing
-  img:
-  short_description:
+  img: quiz.png
+  short_description: "During our class meetings, you will need to complete some short quizzes and exercises. These are designed to reinforce basic knowledge before you put that knowledge to work on larger assignments."
   full_description_link: exercises
   grade_percentage: "20%"
 
 - title: HTML/CSS Assignment
-  date_due:
-  img:
-  short_description:
+  date_due: October 10, 2015
+  img: html5.png
+  short_description: "You will compose a small website from scratch using html and css. The instructor will provide content for this webpage (an imaginary food truck's website), you will create an original design for the content and implement the design in HTML and CSS."
   full_description_link: html_css
   grade_percentage: "10%"
 
 - title: Wordpress Assignment
-  date_due:
-  img:
-  short_description: ""
+  date_due: October 30, 2015
+  img: wordpress.png
+  short_description: "You will use CSS to create a custom child theme for a wordpress site. The content for this site will be provided by the instructor, you will be responsible for creating an original theme to meet the needs of this content."
   full_description_link: wordpress
   grade_percentage: "20%"
 
 - title: Jekyll Assignment
-  date_due:
-  img:
-  short_description: ""
+  date_due: November 30, 2015
+  img: jekyll.png
+  short_description: "You will create a website using the static site builder Jekyll. The content of the site will be your choice. You will need to build templates and layouts for the site, and incorprate twitter bootstrap in your design."
   full_description_link: jekyll
   grade_percentage: "20%"
 
 - title: Final Portfolio
   date_due: "Final exam date for your section. See SJU Final Exam Calendar for Details"
-  img:
-  short_description: ""
+  img: notebook.png
+  short_description: "You will create a portfolio containing your best work from the class, and a reflection on that work. Your portfolio will need to have it's own CSS based design, and may use any of the page-building technologies we employed in this class (vanilla HTML/CSS, wordpress, or jekyll)."
   full_description_link: portfolio
   grade_percentage: "20%"
