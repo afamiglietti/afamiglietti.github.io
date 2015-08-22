@@ -1,4 +1,4 @@
-{% assign current = (site.data.com201.assignments | where:'full_description_link', page.assignment) %}
+{% assign current = (site.data[page.category].assignments | where:'full_description_link', page.assignment) %}
 {% assign assignment = current[0] %}
 <img class="pull-right" src="/assets/img/{{ assignment.img }}">
 <h2>{{ assignment.title }}</h2>

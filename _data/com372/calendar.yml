@@ -128,7 +128,7 @@
       link:  "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Layout"
   in_class: "<strong>QUIZ:</strong> CSS color and text formatting properties. In-class exercises on the box model and basic layout in CSS."
   assignment: "Inspiration Notebook 1 (color and typeface contrast, visual hierarchy)"
-  assignment_link:
+  assignment_link: "/classes/com372/assignments/inspiration.html"
 
 - date: 2015-09-25
   readings:
@@ -163,7 +163,7 @@
     - title: "Review of html/css documentation, as necessary."
   in_class: "Continue work on HTML/CSS project"
   assignment: "Second Inspiration Notebook (layout and navigation) due."
-  assignment_link:
+  assignment_link: "/classes/com372/assignments/inspiration.html"
 
 - date: 2015-10-05
   readings:
@@ -214,7 +214,7 @@
       link: "http://www.presscoders.com/wordpress-theme-customization-guide/#chaptersix"
   in_class: "Class exercise creating a wordpress child theme (replicate the picture)."
   assignment: Inspiration notebook 3 (free choice) due.
-  assignment_link:
+  assignment_link: "/classes/com372/assignments/inspiration.html"
 
 - date: 2015-10-19
   readings:
@@ -233,7 +233,7 @@
     - title: TBA
   in_class: TBA
   assignment: Inspiration Notebook 4 (free choice) due
-  assignment_link:
+  assignment_link: "/classes/com372/assignments/inspiration.html"
 
 - date: 2015-10-26
   readings:
