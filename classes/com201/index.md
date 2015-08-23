@@ -31,6 +31,18 @@ category: com201
         <li>Be able to make and defend reasoned, evidence-based arguments about crucial ethical issues related to digital media.</li>
         <li>Understand how contemporary ethical issues in digital media are informed by the technical and cultural history of the medium</li>
       </ul>
+      <h3>Instructor Contact Information and Office Hours</h3>
+      <p>
+      The best way to contact me is to use my SJU email account: <a href="mailto:afamigli@sju.edu">afamigli@sju.edu</a>
+      </p>
+      <p>My office hours will be held on the first floor of Bronstein Hall (the communications department building) as follows:
+      </p>
+      <ul>
+        <li>Mondays from 2pm to 4pm</li>
+        <li>Tuesdays from 11am to 12pm (free period)</li>
+        <li>Wednesdays from 2pm to 4pm</li>
+      </ul>
+      If you can't make any of these times, and need to talk to me, contact me via email to set up an appointment.
     </div>
     <div class="content-column-multiple col-md-4">
       <h3>Assignments and Grade Breakdown</h3>
