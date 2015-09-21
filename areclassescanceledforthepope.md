@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Are Classes Canceled For the Pope?
 layout: default
 ---
 
