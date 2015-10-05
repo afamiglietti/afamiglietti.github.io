@@ -15,10 +15,60 @@ category: com372
 &nbsp;&nbsp;&lt;title&gt;title&lt;/title&gt;<br>
 &nbsp;&nbsp;&lt;meta charset="utf-8"&gt;<br>
 &nbsp;&nbsp;&lt;link rel="stylesheet" href="PATH_TO_STYLESHEET"&gt;<br>
-&lt;/head&gt;</br>
+&lt;/head&gt;<br>
 &lt;body&gt;<br>
-&nbsp;&nbsp;All content
+&nbsp;&nbsp;All content<br>
 &lt;/body&gt;<br>
 &lt;/html&gt;<br>
+</div>
+<div class="col-md-4 assignment_box">
+<h3>Block Level HTML Elements</h3>
+<p>The elements we use to break our content into sections for layout. Your other content should probably be nested in one of these. Refer to the readings from September 28 on the <a href="/classes/com372/calendar.html">class calendar</a> for more.</p>
+&lt;header&gt;<br>
+&lt;nav&gt;<br>
+&lt;footer&gt;<br>
+&lt;div&gt; (always use an id or class attribute)<br>
+</div>
+<div class="col-md-4 assignment_box">
+<h3>Block Level HTML Elements</h3>
+<p>The elements we use to break our content into sections for layout. Your other content should probably be nested in one of these. Refer to the readings from September 28 on the <a href="/classes/com372/calendar.html">class calendar</a> for more.</p>
+&lt;header&gt;<br>
+&lt;nav&gt;<br>
+&lt;footer&gt;<br>
+&lt;div&gt; (always use an id or class attribute)<br>
+</div>
+<div class="col-md-4 assignment_box">
+<h3>CSS Selectors</h3>
+<p>Read more on the <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors">Mozilla Developer's Network</a></p>
+<ul>
+<li>tag</li>
+<li>#id</li>
+<li>.class</li>
+</ul>
+</div>
+<div class="col-md-4 assignment_box">
+<h3>CSS Box Model Properties</h3>
+<p>The box model properties control how block style elements are displayed. We use them to size elements, draw borders around them, and control how they are spaced. Click each element for documentation</p>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/padding">padding:</a> space between the content and the border</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/border">border:</a> the line around the edge of the element</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/margin">margin:</a> the space outside the border</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/width">width: the size of the element's content</a></li>
+</ul>
+</div>
+<div class="col-md-4 assignment_box">
+<h3>Other Important CSS Properties</h3>
+<p>Click each element for documentation</p>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color">color</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-color">background-color</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-image">background-image</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-family">font-family</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-size">font-size</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight">font-weight</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/font-style">font-style</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration">text-decoration</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/list-style">list-style</a></li>
+</ul>
 </div>
 </div>
