@@ -20,6 +20,7 @@ category: com372
 &nbsp;&nbsp;All content<br>
 &lt;/body&gt;<br>
 &lt;/html&gt;<br>
+</code></p>
 </div>
 <div class="col-md-4 assignment_box">
 <h3>Block Level HTML Elements</h3>
