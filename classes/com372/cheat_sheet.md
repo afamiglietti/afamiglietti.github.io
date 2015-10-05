@@ -31,14 +31,6 @@ category: com372
 &lt;div&gt; (always use an id or class attribute)<br>
 </div>
 <div class="col-md-4 assignment_box">
-<h3>Block Level HTML Elements</h3>
-<p>The elements we use to break our content into sections for layout. Your other content should probably be nested in one of these. Refer to the readings from September 28 on the <a href="/classes/com372/calendar.html">class calendar</a> for more.</p>
-&lt;header&gt;<br>
-&lt;nav&gt;<br>
-&lt;footer&gt;<br>
-&lt;div&gt; (always use an id or class attribute)<br>
-</div>
-<div class="col-md-4 assignment_box">
 <h3>CSS Selectors</h3>
 <p>Read more on the <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors">Mozilla Developer's Network</a></p>
 <ul>
