@@ -8,8 +8,6 @@ assignment: wordpress
 
 {% include assignment_intro.html %}
 
-{% include assignment_intro.html %}
-
 ### Goals:
 This assignment will give the student experience in using CSS to tweak and customize the design of a Wordpress site. This will give the student further experience writing CSS rules, and a better understanding of "real world" applications of CSS, in which designers are frequently called on to modify an existing web application by applying custom CSS.
 
