@@ -3,11 +3,10 @@ title: Blog
 layout: default
 ---
 # Recent Blog Posts
-<ul>
+
+<div class="post">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
-    </li>
   {% endfor %}
-</ul>
+</div>
