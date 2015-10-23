@@ -214,3 +214,8 @@ footer a:visted {
   background-color: #86FA00;
   color: rgba(0,0,0,0.8);
 }
+
+.post {
+  border-bottom: 2px solid black;
+  margin-bottom: 40px;
+}
