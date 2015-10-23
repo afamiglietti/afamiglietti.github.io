@@ -2,9 +2,10 @@
 title: Blog
 layout: default
 ---
-<div class="post">
+
   {% for post in site.posts %}
+  <div class="post">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
+  </div>    
   {% endfor %}
-</div>
