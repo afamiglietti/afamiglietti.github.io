@@ -17,7 +17,7 @@ layout: twin_column
   <div class="row">
     <div class="content-column-multiple col-md-6">
       <h3>Complete CV</h3>
-      My complete CV is <a href="../research/cv_current.pdf">available for download as a .pdf</a>
+      My complete CV is <a href="../research/cv_current_web.pdf">available for download as a .pdf</a>
     </div>
   </div>
 </div>
