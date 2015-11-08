@@ -292,7 +292,7 @@
 - date: 2015-11-09
   readings:
     - title: "Markdown Documentation"
-      link: "http://daringfireball.net/projects/markdown/syntax."
+      link: "http://daringfireball.net/projects/markdown/syntax"
   in_class: "Simple Jekyll content in markdown. Peer review of Jekyll project plans."
   assignment: Jekyll project plan
   assignment_link:
