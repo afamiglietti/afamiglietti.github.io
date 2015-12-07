@@ -36,6 +36,6 @@
 - title: Final Portfolio
   date_due: "Final exam date for your section. See SJU Final Exam Calendar for Details"
   img: notebook.png
-  short_description: "You will create a portfolio containing your best work from the class, and a reflection on that work. Your portfolio will need to have it's own CSS based design, and may use any of the page-building technologies we employed in this class (vanilla HTML/CSS, wordpress, or jekyll)."
+  short_description: "You will compose a brief reflection on your work in this class."
   full_description_link: portfolio
   grade_percentage: "20%"
