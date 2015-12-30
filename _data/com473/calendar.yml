@@ -1,185 +1,172 @@
 - date: 2016-01-14
-  readings:
-  in_class:
-  assignment:
-  assignment_link:
-
-- date: 2016-01-18
-  readings:
+  readings: Syllabus Review and Introductions
   in_class:
   assignment:
   assignment_link:
 
 - date: 2016-01-20
-  readings:
-  in_class:
+  readings: None
+  in_class: Arduino Demo Day 1
   assignment:
   assignment_link:
 
 - date: 2016-01-25
   readings:
-  in_class:
+    -title: "Levy's 'Hackers' Section 1"
+  in_class: Discussion
   assignment:
   assignment_link:
 
 - date: 2016-01-27
   readings:
-  in_class:
+    - title: Hacker case studies 1
+  in_class: Discuss hacker case studies. What technology was used? How can we adapt?
   assignment:
   assignment_link:
 
 - date: 2016-02-01
   readings:
-  in_class:
+    - title: None
+  in_class: Arduino Demo Day 2. Demos of basic skills that lead toward the hacker projects we read about last class.
   assignment:
   assignment_link:
 
 - date: 2016-02-03
   readings:
-  in_class:
+    - title: Snowcrash
+  in_class: Discussion. How does Snowcrash imagine the future? How does is this imagined future informed by hacking?
   assignment:
   assignment_link:
 
 - date: 2016-02-08
   readings:
-  in_class:
+    - title: Hacker Case Studies 2
+  in_class: Discuss hacker case studies. What technology was used? How can we adapt?
   assignment:
   assignment_link:
 
 - date: 2016-02-10
   readings:
-  in_class:
+  in_class: Arduino Demo Day 3. Demos of basic skills that lead toward the hacker projects we read about last class.
   assignment:
   assignment_link:
 
 - date: 2016-02-15
   readings:
-  in_class:
+    - title: First Half of Counterculture to Cyberculture
+  in_class: Discussion
   assignment:
   assignment_link:
 
 - date: 2016-02-17
   readings:
-  in_class:
+    - title: Hacker Case Studies 3
+  in_class: Discuss hacker case studies. What technology was used? How can we adapt?
   assignment:
   assignment_link:
 
 - date: 2016-02-22
   readings:
-  in_class:
+  in_class: Arduino Demo Day 4. Demos of basic skills that lead toward the hacker projects we read about last class.
   assignment:
   assignment_link:
 
 - date: 2016-02-24
   readings:
+    - title: Second half of Counterculture to Cyberculture
   in_class:
   assignment:
   assignment_link:
 
 - date: 2016-02-29
   readings:
-  in_class:
-  assignment:
+  in_class: NO CLASS MEETING - Professor at Conference
+  assignment: Submit hacker project examples to wiki
   assignment_link:
 
 - date: 2016-03-02
   readings:
-  in_class:
-  assignment:
-  assignment_link:
-
-- date: 2016-03-07
-  readings:
-  in_class:
-  assignment:
-  assignment_link:
-
-- date: 2016-03-09
-  readings:
+    - title: Student Submitted Hacker Project examples 1
   in_class:
   assignment:
   assignment_link:
 
 - date: 2016-03-14
   readings:
+    - title: Student Submitted Hacker Project examples 2
   in_class:
   assignment:
   assignment_link:
 
 - date: 2016-03-16
   readings:
-  in_class:
+  in_class: Arduino Practical Test
   assignment:
   assignment_link:
 
 - date: 2016-03-21
   readings:
-  in_class:
+  in_class: Project Planning Meeting
   assignment:
   assignment_link:
 
 - date: 2016-03-23
   readings:
-  in_class:
-  assignment:
-  assignment_link:
-
-- date: 2016-03-28
-  readings:
-  in_class:
+  in_class: Project Planning Meeting
   assignment:
   assignment_link:
 
 - date: 2016-03-30
   readings:
-  in_class:
+  in_class: build
   assignment:
   assignment_link:
 
 - date: 2016-04-04
   readings:
-  in_class:
+  in_class: build
   assignment:
   assignment_link:
 
 - date: 2016-04-06
   readings:
-  in_class:
+  in_class: build
   assignment:
   assignment_link:
 
 - date: 2016-04-11
   readings:
-  in_class:
+  in_class: build
   assignment:
   assignment_link:
 
 - date: 2016-04-13
   readings:
-  in_class:
+  in_class: build
   assignment:
   assignment_link:
 
 - date: 2016-04-18
   readings:
-  in_class:
+    title: something on geek exclusivity, race and gender
+  in_class: build
   assignment:
   assignment_link:
 
 - date: 2016-04-20
   readings:
-  in_class:
+  in_class: build
   assignment:
   assignment_link:
 
 - date: 2016-04-25
   readings:
-  in_class:
+  in_class: reflect
   assignment:
   assignment_link:
 
 - date: 2016-04-27
   readings:
-  in_class:
+  in_class: reflect
   assignment:
   assignment_link:

@@ -1,13 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=VT323);
 @import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
 @import url(http://fonts.googleapis.com/css?family=Inconsolata);
-@import url(http://fonts.googleapis.com/css?family=Roboto);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500);
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 @import url(http://fonts.googleapis.com/css?family=Oxygen);
 
 body {
   background-image: url(../img/static.jpg);
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding: 150px 0 0 0;
 }
 
@@ -31,6 +31,7 @@ h2 {
 h3 {
   margin: 10px 0 5px 0;
   font-size: 22px;
+  font-weight: 500;
 }
 
 a {
@@ -213,4 +214,9 @@ footer a:visted {
 .secondary_nav a:hover {
   background-color: #86FA00;
   color: rgba(0,0,0,0.8);
+}
+
+.post {
+  border-bottom: 2px solid black;
+  margin-bottom: 40px;
 }
