@@ -7,7 +7,7 @@ layout: twin_column
   <div class="row">
     <div class="content-column-multiple col-md-6">
       <h3>Com 473: Critical Hacking and Making</h3>
-      This class is about both learning and engaging with the history and politics. We will learn to use Hacker/Maker derived technologies, like the Arduino microcontroller and 3d printers, and we will learn about the cultural values Hackers tried to "bake in" to these technologies. To better understand the cultural values at play, we will investigate the history of Hacker culture. Our class will read some case studies of Hacker/Maker projects that have tried to use technology to shape social change. Finally, we will work together as a class to build our own Hacker/Maker techno-social project.
+      This class is about both learning and engaging with the history and politics of technology. We will learn to use Hacker/Maker derived technologies, like the Arduino microcontroller and 3d printers, and we will learn about the cultural values Hackers tried to "bake in" to these technologies. To better understand the cultural values at play, we will investigate the history of Hacker culture. Our class will read some case studies of Hacker/Maker projects that have tried to use technology to shape social change. Finally, we will work together as a class to build our own Hacker/Maker techno-social project.
       <br>
       <br>
       <table class="course_nav">
