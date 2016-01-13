@@ -1,0 +1,29 @@
+- title: Class Participation
+  date_due: Ongoing
+  short_description: "This is a discussion class. You're expected to come to every class meeting ready to discuss the day's readings or activities. In addition, you will need to participate in in-class training on the Arduino and 3d Printers."
+  full_description_link: participation
+  grade_percentage: "20%"
+
+- title: Wiki Participation
+  date_due: Ongoing
+  short_description: "We will use a wiki (not wikipedia, a wiki of our own) to plan our class project. Your participation in this planning process is essential to the success of our build!"
+  full_description_link: wiki_participation
+  grade_percentage: "20%"
+
+- title: Case Study Presentation
+  date_due: Various
+  short_description: "Working in groups, students will find and present on case studies of existing Hacker projects. Any project that tried to use distributed, open technology to achieve a social goal is fair game."
+  full_description_link: case_study
+  grade_percentage: "10%"
+
+- title: Final Hacker Project Individual Score
+  date_due: End of semester
+  short_description: "As a class, we will work together to build a hacker/maker project. Each student will have their own assigned role in the larger group project, and the individual score will reflect their success at fulfilling that goal."
+  full_description_link: hacker_individual
+  grade_percentage: "25%"
+
+- title: Final Hacker Project Group Score
+  date_due: End of semester
+  short_description: "As a class, we will work together to build a hacker/maker project. The group score will be assigned the class as a whole, based on the overall success of the project in achieving its goals."
+  full_description_link: hacker_group
+  grade_percentage: "25%"

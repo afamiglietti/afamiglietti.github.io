@@ -10,6 +10,12 @@
   img: quiz.png
   short_description: "During our class meetings, you will need to complete some short quizzes and exercises. These are designed to reinforce basic knowledge before you put that knowledge to work on larger assignments."
   full_description_link: exercises
+  grade_percentage: "10%"
+
+- title: Coding Challenges
+  date_due: Various, about once a week for the first semester
+  short_description: "You will complete a series of short coding challenges, designed to test your understanding of our class material. Each will ask you to complete a small html/css page (or set of pages)."
+  full_description_link: challenges
   grade_percentage: "20%"
 
 - title: HTML/CSS Assignment
@@ -17,19 +23,12 @@
   img: html5.png
   short_description: "You will compose a small website from scratch using html and css. The instructor will provide content for this webpage (an imaginary food truck's website), you will create an original design for the content and implement the design in HTML and CSS."
   full_description_link: html_css
-  grade_percentage: "10%"
-
-- title: Wordpress Assignment
-  date_due: October 30, 2015
-  img: wordpress.png
-  short_description: "You will use CSS to create a custom child theme for a wordpress site. The content for this site will be provided by the instructor, you will be responsible for creating an original theme to meet the needs of this content."
-  full_description_link: wordpress
   grade_percentage: "20%"
 
-- title: Jekyll Assignment
+- title: Bootstrap Assignment
   date_due: November 30, 2015
   img: jekyll.png
-  short_description: "You will create a website using the static site builder Jekyll. The content of the site will be your choice. You will need to build templates and layouts for the site, and incorprate twitter bootstrap in your design."
+  short_description: "You will create a website using the bootstrap CSS/Javascript libraries. The content of the site will be your choice. You will need to build templates and layouts for the site, and incorprate twitter bootstrap in your design."
   full_description_link: jekyll
   grade_percentage: "20%"
 

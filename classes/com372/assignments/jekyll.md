@@ -1,5 +1,5 @@
 ---
-title: COM 372 - Jekyll Project
+title: COM 372 - Bootstrap Project
 layout: default
 tags: syllabus_page
 category: com372
@@ -7,6 +7,11 @@ assignment: jekyll
 ---
 
 {% include assignment_intro.html %}
+### Goals
+The goal of the Bootstrap project is to give students further experience building websites that incorporate the four design principles, and to let them practice using the Bootstrap tools for layout and responsive design.
+
+###Instructions
+Complete a Bootstrap based website (five pages or rows of content, minimum) on the topic of your choosing. Sync your Bootstrap based website to your github pages site for final evaluation.
 
 ### Evaluation:
 The Jekyll Assignment will be evaluated according to the following rubric:
