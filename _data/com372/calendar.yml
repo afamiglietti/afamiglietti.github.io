@@ -1,369 +1,251 @@
-- date: 2015-08-24
-  readings:
-  in_class: Discuss class teaching style, goals, and syllabus.
+- date: 2016-01-14
+  readings: None
+  in_class: Discussion of class goals and structure
   assignment:
   assignment_link:
 
-- date: 2015-08-26
-  readings:
-    - title: Selections from "In The Beginning Was The Command Line"
-      link: "/classes/com372/readings/in_the_beginning.html"
-  in_class: "Discuss Stephenson's analysis of computer interfaces. What are the limitations of graphical user interfaces, according to Stephenson? Why does he think that professionals use language-based interfaces (the command line and code). What do you think? How have you noticed the limits of GUIs in your own experience? What excites you about learning code? What advantages might it bring you? What worries you or frightens you about learning code?"
+- date: 2016-01-15
+  readings: None
+  in_class: Intro to HTML and first web page exercise
   assignment:
   assignment_link:
 
-- date: 2015-08-28
-  readings:
-    - title: "Mozilla Developer's Network(MDN): Intro to HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction"
-  in_class: "<strong>QUIZ:</strong> Basic tag syntax and HTML terminology. In class tagging exercises using CodePen"
-  assignment: 'Sign up for a free <a href="http://codepen.io/">Code Pen</a> account prior to class today and email a link to your account page to the instructor.'
-  assignment_link:
-
-- date: 2015-08-31
-  readings:
-    - title: "Nesting"
-      link: http://www.bu.edu/tech/services/comm/websites/www/non-wordpress/start/html-introduction/syntax/nesting-tags/
-    - title: "HTML Dog: Lists"
-      link: "http://htmldog.com/guides/html/beginner/lists/"
-    - title: "MDN: &lt;ul&gt; - HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul"
-  in_class: "<strong>QUIZ:</strong> Lists and Nesting. Code Pen exercises on nested elements and tagging. Discussion of how to read MDN documentation pages."
+- date: 2016-01-20
+  readings: None
+  in_class: Intro to nesting and lists
   assignment:
   assignment_link:
 
-- date: 2015-09-02
-  readings:
-    - title: "HTML Dog: Tags, Attributes and Elements"
-      link: "http://htmldog.com/guides/html/beginner/tags/"
-    - title: "MDN: &lt;a&gt; - HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a"
-    - title: "MDN: Global Attributes"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes"
-  in_class: "<strong>QUIZ:</strong> Attributes and tags. Code Pen exercises on links, link attributes (href and target), and the id and class attributes."
+- date: 2016-01-22
+  readings: None
+  in_class: Intro to github and hyperlinks
+  assignment: First Coding Challenge Assigned
+  assignment_link:
+
+- date: 2016-01-25
+  readings: None
+  in_class: Intro to paths and images
   assignment:
   assignment_link:
 
-- date: 2015-09-04
-  readings:
-  in_class: "NO CLASS MEETING - PROFESSOR AT CONFERENCE"
-  assignment: By today, have the class virtual machine installed.
-  assignment_link:
-
-- date: 2015-09-07
-  readings:
-  in_class: "NO CLASS MEETING - LABOR DAY"
+- date: 2016-01-27
+  readings: None
+  in_class: Intro to CSS
   assignment:
   assignment_link:
 
-- date: 2015-09-09
-  readings:
-    - title: "Opening a terminal and getting started in the class virtual machine"
-      link: "/classes/com372/readings/virtual_machine.html"
-    - title: "Learning the shell: What is the shell?"
-      link: "http://linuxcommand.org/lc3_lts0010.php"
-    - title: "Learning the shell: Navigation"
-      link: "http://linuxcommand.org/lc3_lts0020.php"
-  in_class: Intro to the command line. Shell exercises, and file system scavenger hunt.
-  assignment: 'Before class, sign up for a free <a href="https://github.com/">github</a> account and email the instructor your profile page.'
+- date: 2016-01-29
+  readings: None
+  in_class: CSS text formatting and inheritance
+  assignment: First Coding Challenge Due, Second Coding Challenge Assigned
   assignment_link:
 
-- date: 2015-09-11
-  readings:
-    - title: "Hypertext Markup Language"
-      link: "https://en.wikibooks.org/wiki/HyperText_Markup_Language/Head_and_Body"
-    - title: "Github Pages"
-      link: "https://pages.github.com/"
-  in_class: "<strong>QUIZ:</strong> HTML document structure. In-class exercise: creating our first html documents, linking them, and uploading them to github pages."
+- date: 2016-02-01
+  readings: None
+  in_class: Intro to the CSS box model and CSS colors
   assignment:
   assignment_link:
 
-- date: 2015-09-14
-  readings:
-    - title: "MDN: Heading Elements - HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements"
-  in_class: "Exercise: use your knowledge of html to create a valid html version of a text resume provided by the instructor."
+- date: 2016-02-03
+  readings: None
+  in_class: Ugly Web Page Contest
   assignment:
   assignment_link:
 
-- date: 2015-09-16
-  readings:
-    - title: "Visual Hierarchy"
-      link: "http://webdesign.tutsplus.com/articles/understanding-visual-hierarchy-in-web-design--webdesign-84"
-  in_class: "Discuss visual hierarchy. We'll use your html resume from last class as an example. What are some effective things your html resume does to establish visual hierarchy? How might it be improved? We'll also discuss the inpiration notebook assignment."
-  assignment: "Complete your html resume, validate it, and post it to github pages."
+- date: 2016-02-05
+  readings: None
+  in_class: NO CLASS MEETING
+  assignment: Second Coding Challenge Due, Third Coding Challenge Assigned
   assignment_link:
 
-- date: 2015-09-18
-  readings:
-    - title: "MDN: What is CSS?"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/What_is_CSS"
-    - title: "MDN: Why use CSS?"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Why_use_CSS"
-    - title: "MDN: Cascading and Inheritance"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Cascading_and_inheritance"
-    - title: "MDN: Selectors"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors"
-  in_class: "<strong>QUIZ:</strong> Basic CSS syntax and HTML syntax review. In class exercise: start using basic CSS. Explore the three ways we can include CSS information in web documents, and explain the uses for each. Review the class and id attributes and see how we can use them to select elements for styling."
+- date: 2016-02-08
+  readings: "Non-Designer's Design Book, 'Introduction'"
+  in_class: Discussion of Design Principles
+  assignment: First Inspiration Assignment Assigned
+  assignment_link:
+
+- date: 2016-02-10
+  readings: "Non-Designer's Design Book, 'Proximity'"
+  in_class: Exercises on CSS properties needed to achieve proximity (box model review, text-alignment rules, and position rules)
   assignment:
   assignment_link:
 
-- date: 2015-09-21
-  readings:
-    - title: "MDN: Text styles"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Text_styles"
-    - title: "MDN: Color"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Color"
-  in_class: "Use CSS text styles and color to improve the html resume from last week."
+- date: 2016-02-12
+  readings: None
+  in_class: Further proximity exercises (more CSS practice, and practice with HTML sectioning elements)
+  assignment: First Inspiration Assignment Due, Third Coding Challenge Due
+  assignment_link:
+
+- date: 2016-02-15
+  readings: None
+  in_class: Discussion of Proximity in Inspiration Assignments
+  assignment: Second Inspiration Assignment Assigned
+  assignment_link:
+
+- date: 2016-02-17
+  readings: "Non-Designer's Design Book, 'Alignment'"
+  in_class: Discussion of Alignment and practice of CSS/HTML techniques to achieve alignment
   assignment:
   assignment_link:
 
-- date: 2015-09-23
-  readings:
-    - title: "CSS: Block vs Inline Display Styles"
-      link: "http://webdesignfromscratch.com/html-css/css-block-and-inline/"
-    - title: "MDN: Boxes"
-      link: "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Boxes"
-    - title: "MDN: Layout"
-      link:  "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Layout"
-  in_class: "<strong>QUIZ:</strong> CSS color and text formatting properties. In-class exercises on the box model and basic layout in CSS."
-  assignment: "Inspiration Notebook 1 (color and typeface contrast, visual hierarchy)"
-  assignment_link: "/classes/com372/assignments/inspiration.html"
+- date: 2016-02-19
+  readings: None
+  in_class: More alignment exercises, including practice achieving alignment in fluid and fixed designs
+  assignment: Second Inspiration Assignment Due, Fourth Coding Challenge Due
+  assignment_link:
 
-- date: 2015-09-25
-  readings:
-    - title: "MDN: &lt;img&gt; - HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img"
-    - title: "MDN: Background-image"
-      link: "https://developer.mozilla.org/en-US/docs/Web/CSS/background-image"
-  in_class: "Image and background image exercises and review of the file system."
+- date: 2016-02-22
+  readings: None
+  in_class:  Review of Alignment in Inspiration Assignments
   assignment:
   assignment_link:
 
-- date: 2015-09-28
-  readings:
-    - title: "MDN: &lt;header&gt; - HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header"
-    - title: "MDN: &lt;nav&gt; - HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav"
-    - title: "MDN: &lt;footer&gt; - HTML"
-      link: "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer"
-  in_class: "Discussion of inspiration assignment examples. How do these examples use color and typeface contrast to highlight important information? How do they use headers, footers and nav elements? Begin the HTML/CSS assignment."
+- date: 2016-02-24
+  readings: "Non-Designer's Design Book, 'Repetition'"
+  in_class: Discussion of Repetition, practice of CSS techniques to achieve consistent design
   assignment:
   assignment_link:
 
-- date: 2015-09-30
-  readings:
-  in_class: "<strong>QUIZ:</strong> HTML and CSS review. Continue work on HTML/CSS project."
+- date: 2016-02-26
+  readings: None
+  in_class:  NO CLASS MEETING
   assignment:
   assignment_link:
 
-- date: 2015-10-02
-  readings:
-    - title: "Review of html/css documentation, as necessary."
-  in_class: "Continue work on HTML/CSS project"
-  assignment: "Second Inspiration Notebook (layout and navigation) due."
-  assignment_link: "/classes/com372/assignments/inspiration.html"
+- date: 2016-02-29
+  readings: None
+  in_class: NO CLASS MEETING
+  assignment: Fifth Coding Challenge Due
+  assignment_link:
 
-- date: 2015-10-05
+- date: 2016-03-02
   readings:
-    - title: "Fixed vs. Fluid vs. Elastic Layout: Which one is Right For You?"
-      link: "http://www.smashingmagazine.com/2009/06/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/"
-  in_class: "Discuss examples from inspiration assignment. Continue work on HTML/CSS project."
+  in_class: Further practice of css/html techniques for consistency, including advanced selectors
+  assignment: Third Inspiration Assignment Due
+  assignment_link:
+
+- date: 2016-03-04
+  readings: None
+  in_class:  "Non-Designer's Design Book, 'Contrast'"
+  assignment: Discussion of Contrast and CSS/HTML techniques to achieve contrast in design
+  assignment_link:
+
+- date: 2016-03-14
+  readings:
+  in_class: Discussion of Repetition in Inspiration Assignment 3
   assignment:
   assignment_link:
 
-- date: 2015-10-07
+- date: 2016-03-16
   readings:
-    - title: "Review of html/css documentation, as necessary."
-  in_class: "Final day of in-class work on HTML/CSS project."
+  in_class: Further Contrast exercises (using color, size, weight, and typeface contrast)
+  assignment: Fourth Inspiration Assignment Due
+  assignment_link:
+
+- date: 2016-03-18
+  readings: None
+  in_class: Discussion of Contrast in Inspiration Assignment 4
   assignment:
   assignment_link:
 
-- date: 2015-10-09
-  readings:
-    - title: "Wordpress Codex: Dashboard"
-      link: "https://codex.wordpress.org/Dashboard_Screen"
-    - title: "Wordpress Codex: Using Themes"
-      link: https://codex.wordpress.org/Using_Themes
-  in_class: "Wordpress refresher and setting up a new wordpress instance on Reclaim for Design work."
-  assignment: "HTML/CSS Project"
-  assignment_link: "/classes/com372/assignments/html_css.html"
-
-- date: 2015-10-12
-  readings:
-  in_class: "NO CLASS MEETING - FALL BREAK"
+- date: 2016-03-21
+  readings: None
+  in_class: Discussion of Planning Layout for Webpages and using Wireframe Tools
   assignment:
   assignment_link:
 
-- date: 2015-10-14
-  readings:
-    - title: "Set Up Chrome Dev Tools"
-      link: "https://developers.google.com/web/tools/setup/workspace/setup-devtools?hl=en"
-    - title: "Chrome Developer Tools: Inspect and Tweak Your Pages - The Basics"
-      link: "https://developer.chrome.com/devtools/docs/dom-and-styles#styles"
-  in_class: "Class exercises on investigating a Wordpress theme using Chrome's developer tools and tweaking theme css to customize."
+- date: 2016-03-23
+  readings: "Non-Designer's Design Book, 'Color'"
+  in_class: Practice with color design tools and HTML/CSS color design
   assignment:
   assignment_link:
 
-- date: 2015-10-16
-  readings:
-    - title: "Child Themeing"
-      link: "http://www.presscoders.com/wordpress-theme-customization-guide/#chapterfive"
-    - title: "Chrome Dev Tools"
-      link: "http://www.presscoders.com/wordpress-theme-customization-guide/#chaptersix"
-  in_class: "Class exercise creating a wordpress child theme (replicate the picture)."
-  assignment: Inspiration notebook 3 (free choice) due.
-  assignment_link: "/classes/com372/assignments/inspiration.html"
-
-- date: 2015-10-19
-  readings:
-  in_class: "Wordpress project day 1 - Planning."
+- date: 2016-03-30
+  readings: "Non-Designer's Design Book, 'Type and Life'"
+  in_class: Practice with web fonts and font contrast design
   assignment:
   assignment_link:
 
-- date: 2015-10-21
-  readings:
-  in_class: "Wordpress project day 2 - Review of Plans and begin execution"
+- date: 2016-04-01
+  readings: None
+  in_class: Wireframe Workshop Day
+  assignment: Wireframe for Foodtruck Site Due
+  assignment_link:
+
+- date: 2016-04-04
+  readings: None
+  in_class: Food Truck Project Work Day
   assignment:
   assignment_link:
 
-- date: 2015-10-23
-  readings:
-    - title: TBA
-  in_class: TBA
-  assignment: Inspiration Notebook 4 (free choice) due
-  assignment_link: "/classes/com372/assignments/inspiration.html"
-
-- date: 2015-10-26
-  readings:
-  in_class: "Wordpress project day 3 - Implementation"
+- date: 2016-04-06
+  readings: None
+  in_class: Food Truck Project Work Day
   assignment:
   assignment_link:
 
-- date: 2015-10-28
-  readings:
-  in_class: "Wordpress project day 4 - Finishing Up"
+- date: 2016-04-08
+  readings: None
+  in_class: Food Truck Project Work Day
   assignment:
   assignment_link:
 
-- date: 2015-10-30
-  readings:
-    - title: "Bootstrap Documentation: Overview"
-      link: "http://getbootstrap.com/css/#overview"
-    - title: "Bootstrap Documentation: Grid System"
-      link: "http://getbootstrap.com/css/#grid"
-  in_class: "Bootstrap Intro Exercise. Discussion of Inspiration Notebook Examples."
-  assignment: Wordpress Assignment
-  assignment_link: "/classes/com372/assignments/wordpress.html"
-
-- date: 2015-11-02
-  readings:
-    - title: "Bootstrap Documentation: Helper Classes"
-      link: "http://getbootstrap.com/css/#helper-classes"
-    - title: "Jekyll: Welcome"
-      link: "http://jekyllrb.com/docs/home/"
-    - title: "Jekyll: Directory Structure"
-      link: "http://jekyllrb.com/docs/structure/"
-  in_class: "Further Bootstrap Exercises and Jekyll Intro"
+- date: 2016-04-11
+  readings: None
+  in_class: Introduction to Bootstrap
   assignment:
   assignment_link:
 
-- date: 2015-11-04
-  readings:
-    - title: "Jekyll: frontmatter"
-      link: "http://jekyllrb.com/docs/frontmatter/"
-    - title: "Jekyll: Writing Posts"
-      link: "http://jekyllrb.com/docs/posts/"
-  in_class: "Exercise: Writing some simple Jekyll Posts"
+- date: 2016-04-13
+  readings: None
+  in_class: Exercises on Bootstrap features and grid system
   assignment:
   assignment_link:
 
-- date: 2015-11-06
-  readings:
-    - title: "Jekyll: Creating Pages"
-      link: "http://jekyllrb.com/docs/pages/"
-    - title: "Learning Jekyll By Example (focus on the section 'Building the theme')"
-      link: "http://learn.andrewmunsell.com/learn/jekyll-by-example/tutorial"
-  in_class: "Create a basic Jekyll Layout. Begin planning for Jekyll project."
+- date: 2016-04-15
+  readings: None
+  in_class: Practice using Bootstrap
   assignment:
   assignment_link:
 
-- date: 2015-11-09
-  readings:
-    - title: "Markdown Documentation"
-      link: "http://daringfireball.net/projects/markdown/syntax"
-  in_class: "Simple Jekyll content in markdown. Peer review of Jekyll project plans."
-  assignment: Jekyll project plan
-  assignment_link:
-
-- date: 2015-11-11
-  readings:
-    - title: "Jekyll data, conditionals, and for loops"
-  in_class: "Simple use of data, conditionals and for loops in Jekyll"
+- date: 2016-04-18
+  readings: None
+  in_class: Discussion of site mapping and planning
   assignment:
   assignment_link:
 
-- date: 2015-11-13
-  readings:
-  in_class: "Jekyll Project - Peer Evaluation of Plans"
-  assignment: Jekyll Project Plan
+- date: 2016-04-20
+  readings: None
+  in_class: Wireframe Workshop for Bootstrap Assignment
+  assignment: Wireframe for Bootstrap Assignment Due
   assignment_link:
 
-- date: 2015-11-16
-  readings:
-  in_class: "Jekyll Project - Begin Implementation"
+- date: 2016-04-22
+  readings: None
+  in_class: Bootstrap Advanced features
   assignment:
   assignment_link:
 
-- date: 2015-11-18
-  readings:
-  in_class: "Jekyll Project - Continue Implementation"
+- date: 2016-04-25
+  readings: None
+  in_class: Bootstrap Project Work Day
   assignment:
   assignment_link:
 
-- date: 2015-11-20
-  readings:
-    - title: "Responsive Web Design"
-      link: "http://alistapart.com/article/responsive-web-design/"
-    - title: "Bootstrap Documentation: Responsive Utilities"
-      link: "http://getbootstrap.com/css/#responsive-utilities"
-  in_class: "Adding responsive elements to our Jekyll design"
+- date: 2016-04-27
+  readings: None
+  in_class: Bootstrap Project Work Day
   assignment:
   assignment_link:
 
-- date: 2015-11-23
-  readings:
-  in_class: "Jekyll Project - Finishing Up"
+- date: 2016-04-29
+  readings: None
+  in_class: Bootstrap Project Work Day
   assignment:
   assignment_link:
 
-- date: 2015-11-25
-  readings:
-  in_class: "NO CLASS MEETING - THANKSGIVING"
-  assignment:
-  assignment_link:
-
-- date: 2015-11-27
-  readings:
-  in_class: "NO CLASS MEETING - THANKSGIVING"
-  assignment:
-  assignment_link:
-
-- date: 2015-11-30
-  readings:
-  in_class: Work on Final Porfolio - Planning
-  assignment: Jekyll Project
-  assignment_link: "/classes/com372/assignments/jekyll.html"
-
-- date: 2015-12-02
-  readings:
-  in_class: Work on Final Portfolio - Review Plans and Begin Implementation
-  assignment:
-  assignment_link:
-
-- date: 2015-12-04
-  readings:
-  in_class: Work on Final Portfolio and Class Evaluations
+- date: 2016-05-02
+  readings: None
+  in_class: Bootstrap Project Work Day
   assignment:
   assignment_link:
