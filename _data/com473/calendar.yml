@@ -74,7 +74,14 @@
 
 - date: 2016-02-17
   readings:
-    - title: Hacker Case Studies 3
+    - title: "Hacker Case Studies 3: Leaderless Organization"
+    - title: Exceprts from Electric Kool-Aid Acid Test
+    - title: "My Crowd, or, Phase 5: A report from the inventor of the flash mob"
+      link: http://harpers.org/archive/2006/03/my-crowd/
+    - title: "Smart Mobs: The Power of the Mobile Many"
+      link: http://www.demos.co.uk/files/File/networklogic15rheingold.pdf
+    - title: Eyetap
+      link: http://www.eyetap.org/hi/ENGwear/
   in_class: Discuss hacker case studies. What technology was used? How can we adapt?
   assignment:
   assignment_link:
