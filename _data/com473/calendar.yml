@@ -35,7 +35,7 @@
 - date: 2016-02-01
   readings:
     - title: None
-  in_class: Arduino Demo Day 2. Arrays, loops, inputs.
+  in_class: "Arduino Demo Day 2. Arrays, loops, inputs."
   assignment: Complete Arduino Demo Day Worksheet
   assignment_link:
 
@@ -54,7 +54,7 @@
     - title: "The Map is the Debate:  Radiation Webmapping and Public Involvement During the Fukushima Issue"
       link: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926276
     - title: Smartcitizen
-      link: https://smartcitizen.me/    
+      link: https://smartcitizen.me/
   in_class: Discuss hacker case studies. What technology was used? How can we adapt?
   assignment:
   assignment_link:
