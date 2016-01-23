@@ -6,20 +6,28 @@
 
 - date: 2016-01-20
   readings: None
-  in_class: Arduino Demo Day 1
-  assignment:
+  in_class: Arduino Demo Day 1. The very basics of electronics, programming and Arduino.
+  assignment: Complete Arduino Demo Day Worksheet.
   assignment_link:
 
 - date: 2016-01-25
   readings:
     -title: "Levy's 'Hackers' Section 1"
-  in_class: Discussion
+  in_class: "Discussion of Levy's 'Hackers.' Discussion questions distributed by instructor."
   assignment:
   assignment_link:
 
 - date: 2016-01-27
   readings:
-    - title: Hacker case studies 1
+    - title: Hacker case studies 1: Culture-Jamming
+    - title: Billboard Liberation Front
+      link: http://www.billboardliberation.com/
+    - title: TV-B-GONE
+      link: https://learn.adafruit.com/tv-b-gone-kit
+    - title: Street Writer
+      link: http://www.appliedautonomy.com/sw.html
+    - title: Project Blinkenlights
+      link: http://blinkenlights.net/project
   in_class: Discuss hacker case studies. What technology was used? How can we adapt?
   assignment:
   assignment_link:
@@ -27,20 +35,26 @@
 - date: 2016-02-01
   readings:
     - title: None
-  in_class: Arduino Demo Day 2. Demos of basic skills that lead toward the hacker projects we read about last class.
-  assignment:
+  in_class: Arduino Demo Day 2. Arrays, loops, inputs.
+  assignment: Complete Arduino Demo Day Worksheet
   assignment_link:
 
 - date: 2016-02-03
   readings:
-    - title: Snowcrash
+    - title: "Stephenson's Snowcrash"
   in_class: Discussion. How does Snowcrash imagine the future? How does is this imagined future informed by hacking?
   assignment:
   assignment_link:
 
 - date: 2016-02-08
   readings:
-    - title: Hacker Case Studies 2
+    - title: Hacker Case Studies 2: Citizen Science
+    - title: Safecast
+      link: http://blog.safecast.org/
+    - title: "The Map is the Debate:  Radiation Webmapping and Public Involvement During the Fukushima Issue"
+      link: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926276
+    - title: Smartcitizen
+      link: https://smartcitizen.me/    
   in_class: Discuss hacker case studies. What technology was used? How can we adapt?
   assignment:
   assignment_link:
