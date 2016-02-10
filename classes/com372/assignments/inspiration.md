@@ -16,33 +16,33 @@ Students will need to collect four examples of web design they find inspiring, a
 
 I _strongly recommend_ that students spend some time finding good, unique examples for their inspiration notebooks. Investing the time to find well-designed and distinctive sites for this assignment vastly improves the student's chances of producing well-designed and distinctive work of their own. The more variety you expose yourself to as you research your examples, the greater the palette of design options you will have at your disposal later on.
 
-#### Inspiration Notebook Entry 1 (Due September 23)
-This inspiration notebook entry focuses on color, typography, and visual hierarchy. Try to select a site that makes particularly striking use of these elements. For your response, answer the following questions:
+#### Inspiration Notebook Entry 1 (Due February 12)
+This inspiration notebook entry focuses on the principle of _proximity_. Try to select a site that makes particularly striking use of this principle. For your response, answer the following questions:
 
-* How does the site use color and typography to convey a sense of mood or character? What do the colors used in the sites color scheme remind you of? How do they make you feel? Why? What do the site's fonts remind you of?
-* How does the site use color, typeface, type weight or other elements to convey _visual hierarchy_? What elements stand out from the body text of the page? What markers (color, typeface, type weight, etc.) make them stand out? Why do you think these elements were selected by the designer to stand out?
-* Name one thing this site does related to color or typography that you might want to borrow for your own design, and explain why.
+* Name three distinct visual groupings that occur on this page and explain how these groupings convey meaning to the reader. In other words, what are three columns, boxes, or other groups set apart from the rest of the page by whitespace? Why has the author
+* How does the site use proximity to convey _visual hierarchy_? How have important pieces of information been moved away from "clutter" to make them stand out? Why do you think these elements were selected by the designer to stand out?
+* Name one thing this site does related to proximity that you might want to borrow for your own design, and explain why.
 
-#### Inspiration Notebook Entry 2 (Due October 2)
-This notebook entry focuses on layout (the placement of elements on the page) and navigation (the tools provided to the user to access various parts of the site). Try to select a site that makes particularly striking use of these elements. For your response, answer the following questions:
+#### Inspiration Notebook Entry 2 (Due February 19)
+This notebook entry focuses on the principle of _alignment_. Try to select a site that makes particularly striking use of this principle. For your response, answer the following questions:
 
-* What page elements are placed near to one another on the page? What elements are separated from the others by large amounts of blank space? How does this grouping of elements help the user understand the organization of information on the page?
 * Imagine a ruler being passed over the page both vertically and horizontally (if you wish, get a real ruler or fold a piece of paper and try it out for real). As the ruler passes over the page, what page elements does it connect on a shared vertical or horizontal line? How do these lines link related pieces of information, or help to unify the page composition?
-* How has the designer directed attention to the _navigation elements_ (links to other parts of the site) on the page? How do they help the user keep track of where they are on the site, and return back to previously visited material?
+* What strong vertical or horizontal lines (for example: image borders or text margins) does the design emphasize? How does it use these lines to draw the reader's eye?
+* Name one thing this site does related to _alignment_ that you might want to borrow for your own design, and explain why.
 
-#### Inspiration Notebook Entry 3 (Due October 16)
-You are free to choose any site that has a design you think worthy of emulating for this notebook entry. Try to choose something distinctive, something that looks noticeably different from your first two inspiration notebook entries.
+#### Inspiration Notebook Entry 3 (Due March 2)
+This notebook entry focuses on the principle of _repetition_. Try to select a site that makes particularly striking use of this principle. For your response, answer the following questions:
 
-* What is it about this page design that makes it unique? Describe the specific design elements (color, typeface, layout, etc.) that make the site stand out.
-* How does the site use visual design (color, typeface, layout, etc.) do convey mood or character? What does the visual design of the site remind you of? How does it make you feel? Why?
-* Name one thing this site does related to visual design that you might want to borrow for your own design, and explain why.
+* Name three specific visual signals (color, typeface, size, etc) that you see repeated throughout this site. Explain what each of these repeated signals communicate to the reader.
+* How does the site use repetition to convey mood or character? What repeated elements of the site remind you of? How do they make you feel? Why?
+* Name one thing this site does related to repetition that you might want to borrow for your own design, and explain why.
 
 #### Inspiration Notebook Entry 4 (Due October 23)
-You are free to choose any site that has a design you think worthy of emulating for this notebook entry. Try to choose something distinctive, something that looks noticeably different from your first two inspiration notebook entries.
+This notebook entry focuses on the principle of _contrast_. Try to select a site that makes particularly striking use of this principle. For your response, answer the following questions:
 
-* What is it about this page design that makes it unique? Describe the specific design elements (color, typeface, layout, etc.) that make the site stand out.
-* How does the site use visual design (color, typeface, layout, etc.) do convey mood or character? What does the visual design of the site remind you of? How does it make you feel? Why?
-* Name one thing this site does related to visual design that you might want to borrow for your own design, and explain why.  
+* Name three specific examples of strong contrast employed in the site, and explain why the designer has chosen to make each of these three selected elements stand out in his or her design.
+* How does the site use contrast to convey _visual hierarchy_? How have important pieces of information been contrasted with other elements to make them stand out? Why do you think these elements were selected by the designer to stand out?
+* Name one thing this site does related to contrast that you might want to borrow for your own design, and explain why.  
 
 ### Evaluation:
 Each notebook entry is worth 25% of the total inspiration notebook assignment grade. Each entry will be assigned from 0 to 25 points, based on the following formula:
