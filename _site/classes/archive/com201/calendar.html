@@ -741,18 +741,6 @@ This calendar lists all of the readings, assignments, and activities for the cla
   
 </div>
 
-<script type="text/javascript">
-  var now = moment()
-  var nowDateTime = new Date();
-  var currentDiv = document.getElementById('next_meeting');
-  var meetingDiv = document.getElementById(now.format("YYYY-MM-DD"));
-  while(meetingDiv == null){
-    now = now.add(1, 'days');
-    meetingDiv = document.getElementById(now.format("YYYY-MM-DD"));
-  }
-  currentDiv.innerHTML = meetingDiv.innerHTML;
-</script>
-
 
 
 
