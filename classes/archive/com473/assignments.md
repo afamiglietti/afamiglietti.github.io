@@ -1,12 +1,12 @@
 ---
-title: COM 372 - Web Design
+title: COM 473 - Critical Hacking and Making
 layout: twin_column
 tags: syllabus_page
-category: com372
+category: com473
 ---
 
-<div class="col-md-10 col-md-offset-1">
-  {% for assignment in site.data.com372.assignments %}
+
+  {% for assignment in site.data.com473.assignments %}
   <div class="col-md-4 assignment_box">
   <img class="pull-right assignment_img" src="/assets/img/{{ assignment.img }}">
   <h3>{{ assignment.title }}</h3>
@@ -19,4 +19,3 @@ category: com372
   </p>
   </div>
   {% endfor %}
-</div>

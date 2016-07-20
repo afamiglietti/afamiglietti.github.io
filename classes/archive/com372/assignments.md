@@ -1,13 +1,13 @@
 ---
-title: COM 473 - Critical Hacking and Making
+title: COM 372 - Web Design
 layout: twin_column
 tags: syllabus_page
-category: com473
+category: com372
 ---
 
-<div class="col-md-10 col-md-offset-1">
-  {% for assignment in site.data.com473.assignments %}
-  <div class="col-md-4 assignment_box">
+<div class="row">
+  {% for assignment in site.data.com372.assignments %}
+  <div class="col-md-4">
   <img class="pull-right assignment_img" src="/assets/img/{{ assignment.img }}">
   <h3>{{ assignment.title }}</h3>
   <strong>Due:</strong> {{assignment.date_due}} <br>
