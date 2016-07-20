@@ -16,6 +16,7 @@ This calendar lists all of the readings, assignments, and activities for the cla
 {% for meeting in site.data.wrt120.calendar %}
 <div id="{{ meeting.date }}" class="class_meeting">
 <h3>{{ meeting.date | convert:"date" | date:"%A %B %-d" }}</h3>
+  <ul>
   <li><em>Read:</em>
     <ul>
     {% for reading in meeting.readings %}
