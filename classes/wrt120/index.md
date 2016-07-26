@@ -24,12 +24,12 @@ category: wrt120
     This course is also designed to fulfill WCU’s three First-Year Writing Program Outcomes:
     </p>
     <ul>
-    <li>Think with writing: Use composing processes and tools as a means to discover ideas, engage deeply with questions, reconsider concepts and beliefs, explore problems, and promote local and global change, including but not limited to engaging those questions, problems and concepts currently of relevance to the academy.<li>
+    <li>Think with writing: Use composing processes and tools as a means to discover ideas, engage deeply with questions, reconsider concepts and beliefs, explore problems, and promote local and global change, including but not limited to engaging those questions, problems and concepts currently of relevance to the academy.</li>
     <li>Think about writing: Develop metacognitive awareness about writing and rhetoric.</li>
     <li>Compose writing: Demonstrate genre awareness and rhetorical agility through both producing and problematizing academic and public, dominant and non-dominant, genres, in both written and multimodal forms.</li>
     </ul>
 
-  Readings, writing assignments, workshop activities, discussions, and conferences are all designed to help you develop these abilities.
+    Readings, writing assignments, workshop activities, discussions, and conferences are all designed to help you develop these abilities.
     <h3>Contact Information and Office Hours</h3>
     <p>
     The best way to contact me is to use my West Chester email account: <a href="mailto:afamiglietti@wcupa.edu">afamiglietti@wcupa.edu</a>
