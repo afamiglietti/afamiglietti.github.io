@@ -60,11 +60,51 @@ category: wrt120
         <td>Theory of Writing </td><td>30% of Final Grade</td>
       </tr>
       <tr>  
-        <tdParticipation-Credit: homework & classroom activities</td><td>20% of Final Grade</td>
+        <td>Participation-Credit: homework & classroom activities</td><td>20% of Final Grade</td>
       </tr>
       <tr>
         <td>Portfolio</td><td>10% of Final Grade</td>
       </tr>
+    </table>
+    <h3>Evaluation and grading</h3>
+    Final grades are determined by the weighted scores given on the assignments above, following the University’s 100-point scale:
+    <table>
+    <tr>
+    <td>A</td><td>93-100</td>
+    </tr>
+    <tr>
+    <td>A-</td><td>90-92</td>
+    </tr>
+    <tr>
+    <td>B+</td><td>87-89</td>
+    </tr>
+    <tr>
+    <td>B</td><td>83-86</td>
+    </tr>
+    <tr>
+    <td>B-</td><td>80-82</td>
+    </tr>
+    <tr>
+    <td>C+</td><td>77-79</td>
+    </tr>
+    <tr>
+    <td>C</td><td>73-76</td>
+    </tr>
+    <tr>
+    <td>C-</td><td>70-72</td>
+    </tr>
+    <tr>
+    <td>D+</td><td>67-69</td>
+    </tr>
+    <tr>
+    <td>D</td><td>63-66</td>
+    </tr>
+    <tr>
+    <td>D-</td><td>60-62</td>
+    </tr>
+    <tr>
+    <td>F</td><td>0-59</td>
+    </tr>
     </table>
   </div>
 </div>
