@@ -17,14 +17,14 @@ layout: twin_column
       </table>
     </div>
     <div class="content-column-multiple col-md-6">
-      <h3>Com 372: Web Design and Development</h3>
-      This class is an introduction to the fundamentals of web design and development. No prior experience is necessary. Students will gain an understanding of the fundamental syntax of html and css, and the principles of design for the web environment. These basic literacies will help students understand how to organize information, and prepare them to design interactive multimedia texts using a variety of platforms and tools.  
+      <h3>WRH 205 - Composing Cyberspace</h3>
+      This class is an introduction to the unique rhetorical affordances of online writing. Students will learn how writers write while taking advantage of the opportunities, and dealing with the challenges, of remix, collaboration, and automation online.
       <br>
       <br>
       <table class="course_nav">
-        <tr><td><a href="/classes/com372">Overview and Goals<span class="sr-only">for Com 372</span></a></td></tr>
-        <tr><td><a href="/classes/com372/calendar.html">Calendar<span class = "sr-only">of activities and assignments for com 372</span></a></td></tr>
-        <tr><td><a href="/classes/com372/assignments.html">Assignments <span class="sr-only">for com 372</span></a></td></tr>
+        <tr><td><a href="/classes/wrh205">Overview and Goals<span class="sr-only">for WRH 205</span></a></td></tr>
+        <tr><td><a href="/classes/wrh205/calendar.html">Calendar<span class = "sr-only">of activities and assignments for WRH 205</span></a></td></tr>
+        <tr><td><a href="/classes/wrh205/assignments.html">Assignments <span class="sr-only">for wrh205</span></a></td></tr>
       </table>
     </div>
   </div>
