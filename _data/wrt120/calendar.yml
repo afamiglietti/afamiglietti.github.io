@@ -42,9 +42,13 @@
 - date: 2016-09-12
   readings:
     - title: "'Joyless Children's Games in Western Art History' (Mallory Ortberg, The Toast)"
+      link: http://the-toast.net/2016/02/17/joyless-childrens-games-in-western-art-history/
     - title: "'I know what clean smells like' (Mallory Ortberg, The Toast)"
+      link: http://the-toast.net/2016/05/03/i-know-what-clean-smells-like-these-new-bleach-ads-are-terrifying/
     - title: "'Everything that's Wrong of Raccoons,' (Mallory Ortberg, The Toast)"
+      link: http://the-toast.net/2016/05/05/everything-thats-wrong-of-raccoons/
     - title: "OPTIONAL: 'A Generic College Paper' (John Wu, McSweeney's)"
+      link: https://www.mcsweeneys.net/articles/a-generic-college-paper
   in_class: "Review snark essay and discuss the genre of 'snark.' What makes it effective? What invites the reader to share the author's disdain? Extra-credit assignment describe another genre of blog post, convince me to allow you to use it for the genre assignment. Extra-credit assignment: find a CC licensed image of a famous artwork and make a snarky comment about it."
   assignment: Revised theory of writing
   assignment_link:
@@ -52,6 +56,7 @@
 - date: 2016-09-14
   readings:
     - title: "'My Aaron Swartz, Whom I loved' (Quinn Norton, Medium)"
+      link: http://www.quinnnorton.com/said/?p=644
     - title: "'Playing Shiva' (Eric Meyer)"
       link: http://meyerweb.com/eric/thoughts/2015/03/23/playing-shiva/
     - title: "Bonus: 'The Last Post' (Derek Miller)"
@@ -68,7 +73,8 @@
 
 - date: 2016-09-19
   readings:
-    - title: "'The Blue Shell and It's Discontents' (Ian Bogost)"
+    - title: "'The Blue Shell and Its Discontents' (Ian Bogost)"
+      link: http://www.gamasutra.com/view/feature/218696/the_blue_shell_and_its_discontents.php
   in_class: Discuss Bogost's piece. How does it use genre features we saw in the previous snark pieces? How does it build on these features and use them to accomplish its own goals?
   assignment:
   assignment_link:
@@ -76,6 +82,7 @@
 - date: 2016-09-21
   Readings:
     - title: "'Beyond Black on White: Document Design and Formatting in the Writing Classroom' (Writing Spaces)"
+      link: http://writingspaces.org/sites/default/files/klein-and-shackelford--beyond-black-on-white.pdf
   in_class: Explicit discussion of images and design in our readings to date
   Assignment: 'Bonus - create a snarky image or video response, select and image for an elegy'
   assignment_link:
@@ -83,7 +90,8 @@
 - date: 2016-09-23
   readings:
     - title: "'The Painted Desert' (Quinn Norton, Medium)"
-    - title: "'Nobody's Detroit' (Philip Levine, Harper's)"
+      link: https://medium.com/message/the-painted-desert-1a513a02b2ef#.etwrltp8g
+    - title: "'Nobody's Detroit' (Philip Levine, Harper's) (on D2L)"
   in_class: Discussion focusing on all the snarks and elegies. Which was the most successful of the lot at moving you and why?
   assignment:
   assignment_link:
@@ -91,6 +99,7 @@
 - date: 2016-09-26
   Readings:
     title: "'Invention as Inquiry Based Learning in First Year Writing' (Writing Spaces)"
+    link: http://writingspaces.org/sites/default/files/lessner-and-craig--finding-your-way-in.pdf
   in_class: Discussion of mess drafts, what was the process of writing them like? What did we learn along the way?
   assignment: 'Initial "mess" draft of snark or elegy'
   assignment_link:
@@ -99,7 +108,8 @@
   readings:
     - title: "Snark or elegy of the student's choosing"
     - title: "'From Topic to Presentation' (Writing Spaces)"
-  in_class: Discussion of model essay chosen by students. Why did they choose them, why did they find them useful examples or models?
+      link: http://writingspaces.org/sites/default/files/hewett--from-topic-to-presentation.pdf
+  in_class: Discussion of model essay chosen by students. Why did they choose them, why did they find them useful examples or models? What does the model show them that they may want to consider as they revise?
   assignment:
   assignment_link:
 
@@ -144,6 +154,7 @@
   readings:
     - title: "'Summary and noting for Gist' (Academic Writing: An Introduction, pgs 31-40)"
     - title: "'Quentin Tarantino's Star Wars' (Henry Jenkins)"
+      link: http://disfasia.net/readings/baudrillard.pdf#page=588
   in_class: Discussing what Jenkins establishes about the Rhetorical Situation of Online Writing, discussing the process of summarizing the reading for Gist
   assignment:
   assignment_link:
@@ -158,12 +169,14 @@
 - date: 2016-10-19
   readings:
     - title: "'I tweet honestly, I tweet passionately' (Alice Marwick)"
+      link: http://is.muni.cz/el/1423/jaro2013/ZUR589f/um/marwick_boyd__2010_.pdf
   in_class: Discussion of "imagined audience" and how this shapes the composition practices of the online communities
   assignment_link:
 
 - date: 2016-10-21
   readings:
     - title: "'Of big birds and bayonets: hybrid Twitter interactivity in the 2012 Presidential debates' (Deen Freelon)"
+      link: http://dfreelon.org/wp-content/uploads/2008/06/freelonkarpf_ics_preprint.pdf
   in_class: Discussion of humor and network hubs. How did the method of humor help messages gain an audience? How was that audience shaped by the network of retweeters?
   Assignment:
   assignment_link:
