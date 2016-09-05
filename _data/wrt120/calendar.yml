@@ -80,11 +80,11 @@
   assignment_link:
 
 - date: 2016-09-21
-  Readings:
+  readings:
     - title: "'Beyond Black on White: Document Design and Formatting in the Writing Classroom' (Writing Spaces)"
       link: http://writingspaces.org/sites/default/files/klein-and-shackelford--beyond-black-on-white.pdf
   in_class: Explicit discussion of images and design in our readings to date
-  Assignment: 'Bonus - create a snarky image or video response, select and image for an elegy'
+  assignment: 'Bonus - create a snarky image or video response, select and image for an elegy'
   assignment_link:
 
 - date: 2016-09-23
@@ -97,7 +97,7 @@
   assignment_link:
 
 - date: 2016-09-26
-  Readings:
+  readings:
     title: "'Invention as Inquiry Based Learning in First Year Writing' (Writing Spaces)"
     link: http://writingspaces.org/sites/default/files/lessner-and-craig--finding-your-way-in.pdf
   in_class: Discussion of mess drafts, what was the process of writing them like? What did we learn along the way?
@@ -121,20 +121,20 @@
 
 - date: 2016-10-03
   readings:
-  In_class: Reflecting on writing thus far, pre-writing Theory of writing 2.
+  in_class: Reflecting on writing thus far, pre-writing Theory of writing 2.
   assignment:
   assignment_link:
 
 - date: 2016-10-05
   readings:
-  In_class: Lecture on online communities as sites of communicative practice
-  Assignment: theory of writing 2 draft 1
+  in_class: Lecture on online communities as sites of communicative practice
+  assignment: theory of writing 2 draft 1
   assignment_link:
 
 - date: 2016-10-07
   readings:
     - title: 'Selected Memes (From Instructor)'
-  In_class: Build a meme exercise
+  in_class: Build a meme exercise
   assignment:
   assignment_link:
 
@@ -147,7 +147,7 @@
 - date: 2016-10-12
   readings:
   in_class: 'Sharing from your snark or elegy essays: share your most cutting snark, or your most moving image from your snark or elegy'
-  Assignment: Final revised snark or elegy
+  assignment: Final revised snark or elegy
   assignment_link:
 
 - date: 2016-10-14
@@ -178,13 +178,13 @@
     - title: "'Of big birds and bayonets: hybrid Twitter interactivity in the 2012 Presidential debates' (Deen Freelon)"
       link: http://dfreelon.org/wp-content/uploads/2008/06/freelonkarpf_ics_preprint.pdf
   in_class: Discussion of humor and network hubs. How did the method of humor help messages gain an audience? How was that audience shaped by the network of retweeters?
-  Assignment:
+  assignment:
   assignment_link:
 
 - date: 2016-10-24
   readings:
   in_class: Peer discussion of analysis subject candidates
-  Assignment: Come to class with 3 candidates for an analysis subject
+  assignment: Come to class with 3 candidates for an analysis subject
   assignment_link:
 
 - date: 2016-10-26
@@ -210,11 +210,11 @@
 - date: 2016-11-02
   readings:
   in_class: Discussion of project proposals
-  Assignment: Analysis project proposals
+  assignment: Analysis project proposals
   assignment_link:
 
 - date: 2016-11-04
-  Readings:
+  readings:
     - title: Style Readings from textbook
   in_class: Discussion of grammar and style issues
   assignment:
@@ -223,13 +223,13 @@
 - date: 2016-11-07
   readings:
   in_class: Analysis Project Messy Draft Peer Discussion
-  Assignment: Analysis project messy draft
+  assignment: Analysis project messy draft
   assignment_link:
 
 - date: 2016-11-09
   readings:
     - title: Style readings(TBA)
-  In_class: Grammar and style discussion and exercises
+  in_class: Grammar and style discussion and exercises
   assignment:
   assignment_link:
 
@@ -254,7 +254,7 @@
 - date: 2016-11-18
   readings:
   in_class: Complete Analysis Project Draft - Peer review
-  Assignment: Compete Analysis project draft
+  assignment: Compete Analysis project draft
   assignment_link:
 
 - date: 2016-11-21
