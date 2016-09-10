@@ -33,3 +33,5 @@ This calendar lists all of the readings, assignments, and activities for the cla
 </ul>  
 </div>
 {% endfor %}
+
+{% include highlight.html %}
