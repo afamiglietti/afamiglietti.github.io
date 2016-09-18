@@ -66,7 +66,7 @@
 - date: 2016-09-19
   readings:
     - title: "Henry Jenkins, 'Civic Paths Hotspot: Remixing the US Presidential Campaign'"
-      link: http://henryjenkins.org/2016/05/civic-paths-hotspot-remixing-the-u-s-presidentialcampaign.html
+      link: http://henryjenkins.org/2016/05/civic-paths-hotspot-remixing-the-u-s-presidential-campaign.html
   in_class:  Discuss the remix examples Jenkins provides. What makes them effective, or perhaps ineffective, examples of political commentary?
   assignment:
   assignment_link:
@@ -87,8 +87,8 @@
 
 - date: 2016-09-26
   readings:
-    title: "Rich Stim, 'Fair Use'"
-    link: http://fairuse.stanford.edu/overview/fair-use/
+    - title: "Rich Stim, 'Fair Use'"
+      link: http://fairuse.stanford.edu/overview/fair-use/
   in_class: Discussion of fair use and exercises
   assignment:
   assignment_link:
@@ -100,7 +100,8 @@
   assignment_link:
 
 - date: 2016-09-30
-  readings: "Astra Taylor, Chapter 2 of 'The People's Platform' (On D2L)"
+  readings:
+    - title: "Astra Taylor, Chapter 2 of 'The People's Platform' (On D2L)"
   in_class: Discussion of the limits of a Remix economy. How do creators get paid?
   assignment:
   assignment_link:
