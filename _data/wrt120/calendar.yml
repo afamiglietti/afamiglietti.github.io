@@ -98,8 +98,8 @@
 
 - date: 2016-09-26
   readings:
-    title: "'Invention as Inquiry Based Learning in First Year Writing' (Writing Spaces)"
-    link: http://writingspaces.org/sites/default/files/lessner-and-craig--finding-your-way-in.pdf
+    - title: "'Invention as Inquiry Based Learning in First Year Writing' (Writing Spaces)"
+      link: http://writingspaces.org/sites/default/files/lessner-and-craig--finding-your-way-in.pdf
   in_class: Discussion of mess drafts, what was the process of writing them like? What did we learn along the way?
   assignment: 'Initial "mess" draft of snark or elegy'
   assignment_link:
