@@ -1,5 +1,13 @@
 @import 'https://fonts.googleapis.com/css?family=Audiowide|Lora|Libre+Baskerville';
 
+#specialBanner {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #0f0f0f;
+  color: #86FA00;
+}
+
 body {
   background-image: url(../img/static.jpg);
   font-family: 'Libre Baskerville', serif;
