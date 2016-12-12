@@ -10,7 +10,7 @@ This calendar lists all of the readings, assignments, and activities for the cla
 <div id="meeting_jumbo" class="jumbotron">
   <h2>NEXT CLASS:</h2>
   <div id="next_meeting">
-    This semester's Calendar is still being finalized! Last semester's calendar is displayed below!
+    This semester's over! You can find all our class meetings below!
   </div>
 </div>
 {% for meeting in site.data.wrt120.calendar %}
@@ -33,5 +33,3 @@ This calendar lists all of the readings, assignments, and activities for the cla
 </ul>  
 </div>
 {% endfor %}
-
-{% include highlight.html %}
