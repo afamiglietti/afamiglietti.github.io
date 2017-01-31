@@ -15,6 +15,9 @@ layout: twin_column
       and the most to fear from an energized body of left-leaning and centrist voters.</p>
       <p>You can use this map to find vulnerable congressional members near you, or near your friends and relatives. I was able to find some folks I knew who were
       represented by vulnerable republican members. Encourage your friends and relatives in these districts to reach out to their representatives, since their voices
-      are more likely to have an impact and force GOP house members to oppose the Trump agenda.</p>   
+      are more likely to have an impact and force GOP house members to oppose the Trump agenda.</p>
+      <p>For those of you who want to know more about how I generated this map, I took a list of congressional districts by <a href="https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index">Cook Report PVI</a> (a measure of how much a district "leans" Republican or democratic) and used
+      it to find all districts with a sitting Republican represntative and Republican PVI advantage of R+5 or less (fun fact, several R reps in D lean districts in CA).
+      Then I used google fusion tables to mash up the list with a shapefile map of congressional district boundaries.</p>  
     </div>
 </div>
