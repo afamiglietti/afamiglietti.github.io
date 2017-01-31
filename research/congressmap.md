@@ -10,7 +10,7 @@ layout: twin_column
     </div>
     <div class="col-md-4">
       <h3>About This Map</h3>
-      <p>This map shows where, according to my back of the envelope figuring, the Republican districts most vulnerable to being falling to a Democratic challenger are.
+      <p>This map shows where, according to my back of the envelope figuring, the Republican districts most vulnerable to falling to a Democratic challenger are.
       The sitting Republican representatives in these districts ought to be more likely to respond to pressure to split from Trump, since they have the least "safe" seats
       and the most to fear from an energized body of left-leaning and centrist voters.</p>
       <p>You can use this map to find vulnerable congressional members near you, or near your friends and relatives. I was able to find some folks I knew who were
