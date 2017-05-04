@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Audiowide|Lora|Libre+Baskerville|Source+Code+Pro';
+@import 'https://fonts.googleapis.com/css?family=Audiowide|Lora|Libre+Baskerville|Space+Mono';
 
 body {
   background-image: url(../img/static.jpg);
@@ -20,7 +20,7 @@ footer {
 }
 
 h2 {
-  font-family: 'Source Code Pro', sans-serif;
+  font-family: 'Space Mono', sans-serif;
 }
 
 h2 a {
@@ -221,5 +221,5 @@ footer a:visted {
 .postDate {
   font-size: 75%;
   color: #444;
-  margin-bottom: 10px;  
+  margin-bottom: 10px;
 }
