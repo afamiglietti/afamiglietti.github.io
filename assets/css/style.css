@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Audiowide|Lora|Libre+Baskerville';
+@import 'https://fonts.googleapis.com/css?family=Audiowide|Lora|Libre+Baskerville|Source+Code+Pro';
 
 body {
   background-image: url(../img/static.jpg);
@@ -20,7 +20,11 @@ footer {
 }
 
 h2 {
-  font-family: 'Audiowide', sans-serif;
+  font-family: 'Source Code Pro', sans-serif;
+}
+
+h2 a {
+  text-decoration: none;
 }
 
 h3 {
