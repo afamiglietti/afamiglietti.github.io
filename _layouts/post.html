@@ -17,8 +17,8 @@
   {% assign comments = site.data.comments[page.slug] | sort %}
   {% for comment in comments %}
     <div class="comment">
-      <h4>Comment by: <em>{{comment.name}}</em> on <em>{{comment.date | date: "%a: %b %d, %Y" }}</em></h4>
-      <p>{{ comment.message}}</p>
+      <h4>Comment by: <em>{{comment[1].name}}</em> on <em>{{comment[1].date | date: "%a: %b %d, %Y" }}</em></h4>
+      <p>{{ comment[1].message}}</p>
     </div>
   {% endfor %}
 {% endif %}
