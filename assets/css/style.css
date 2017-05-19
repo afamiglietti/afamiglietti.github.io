@@ -160,7 +160,7 @@ footer a:visted {
   border-bottom: 1px solid #ddd;
 }
 
-.comment h4, .comment_form h4 {
+.comment h4, #comment_form h4 {
   margin-bottom: 5px;
   font-family: 'Space Mono', sans-serif;
   font-weight: 700;
