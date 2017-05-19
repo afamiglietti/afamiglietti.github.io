@@ -8,6 +8,7 @@
 <div class="main-content">
 <div class="container">
   <h2> {{page.title}} </h2>
+  <div class="postDate">{{page.date | date: '%B %d, %Y'}}</div>
   {{content}}
   <form method="POST" action="https://api.staticman.net/v2/entry/afamiglietti/afamiglietti.github.io/master/comments">
   <input name="options[redirect]" type="hidden" value="http://copyvillain.org">
