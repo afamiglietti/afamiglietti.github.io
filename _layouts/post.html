@@ -13,7 +13,7 @@
 
   <h3>Comments</h3>
 
-  {% assign comments = (site.data.comments[page.slug] | sort) %}
+  {% assign comments = site.data.comments[page.slug] %}
 
 
   <form method="POST" action="https://api.staticman.net/v2/entry/afamiglietti/afamiglietti.github.io/master/comments">
