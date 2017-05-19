@@ -10,8 +10,17 @@
   <h2> {{page.title}} </h2>
   <div class="postDate">{{page.date | date: '%B %d, %Y'}}</div>
   {{content}}
+
+  <h3>Comments</h3>
+
+{% assign comments = site.data.comments[page.slug] | sort %}
+  {% for comment in comments %}
+    {{ comment.name }}
+    {{ comment.message }}
+  {% endfor %}  
+
   <form method="POST" action="https://api.staticman.net/v2/entry/afamiglietti/afamiglietti.github.io/master/comments">
-  <input name="options[redirect]" type="hidden" value="http://copyvillain.org">
+  <input name="options[redirect]" type="hidden" value="http://copyvillain.org{{page.url}}">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
   <label><input name="fields[name]" type="text">Name</label>
