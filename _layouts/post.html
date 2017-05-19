@@ -32,11 +32,15 @@
         <label for="fields_name">Name</label>
           <input name="fields[name]" class="form-control" type="text" id="fields_name">
         </div>
-      <label><input name="fields[email]" type="email">E-mail</label>
-    <
-      <label><textarea name="fields[message]"></textarea>Message</label>
-
-      <button type="submit">Leave add your comment</button>
+      <div class="form-group">
+        <label for="fields_email">E-mail</label>
+        <input name="fields[email]" type="email" class="form-control" id="fields_email">
+      </div>
+      <div class="form-group">
+        <label for="fields_message">Message</label>
+        <input type="textarea" name="fields[message]" class="form-control" id="fields_message">
+      </div>  
+      <button type="submit">Add your comment</button>
     </form>
   </div>
 </div>
