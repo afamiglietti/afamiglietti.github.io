@@ -32,6 +32,7 @@ h3 {
   font-size: 22px;
   font-weight: 700;
   border-bottom: 1px solid black;
+  font-family: 'Space Mono', sans-serif;
 }
 
 
@@ -157,6 +158,22 @@ footer a:visted {
   padding-bottom: 10px;
   margin-bottom: 30px;
   border-bottom: 1px solid #ddd;
+}
+
+.comment h4, .comment_form h4 {
+  margin-bottom: 5px;
+  font-family: 'Space Mono', sans-serif;
+  font-weight: 700;
+}
+
+.comment {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 3px;
+  margin-bottom: 10px;
+}
+
+.comment p {
+  font-size: .75em;
 }
 
 .content-column{

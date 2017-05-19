@@ -15,12 +15,14 @@
 
 {% if site.data.comments[page.slug] %}
   {% assign comments = site.data.comments[page.slug] | sort | reverse %}
+  <div class="comment_wrapper">
   {% for comment in comments %}
     <div class="comment">
       <h4>Comment by: <em>{{comment.name}}</em> on <em>{{comment.date | date: "%a: %b %d, %Y" }}</em></h4>
       <p>{{ comment.message}}</p>
     </div>
   {% endfor %}
+</div>
 {% endif %}
 
   <div id="comment_form">
