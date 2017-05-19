@@ -13,12 +13,12 @@
 
   <h3>Comments</h3>
 
-  {% assign comments = site.data.comments[page.slug] | sort: "date" %}
+  {% assign comments = site.data.comments[page.slug] %}
   {% for comment in comments %}
     <div>
       <h4>Comment by: {{comment[1].name}} on {{comment[1].date}}</h4>
       <p>{{ comment[1].message}}</p>
-    </div>  
+    </div>
   {% endfor %}
 
 
