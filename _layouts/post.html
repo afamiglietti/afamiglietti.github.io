@@ -22,16 +22,23 @@
   {% endfor %}
 
 
-  <form method="POST" action="https://api.staticman.net/v2/entry/afamiglietti/afamiglietti.github.io/master/comments">
-  <input name="options[redirect]" type="hidden" value="http://copyvillain.org{{page.url}}">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Message</label>
+  <div id="comment_form">
+    <h4>Leave a comment!</h4>
+    <form method="POST" action="https://api.staticman.net/v2/entry/afamiglietti/afamiglietti.github.io/master/comments">
+      <input name="options[redirect]" type="hidden" value="http://copyvillain.org{{page.url}}">
+      <!-- e.g. "2016-01-02-this-is-a-post" -->
+      <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+      <div class="form-group">
+        <label for="fields_name">Name</label>
+          <input name="fields[name]" class="form-control" type="text" id="fields_name">
+        </div>
+      <label><input name="fields[email]" type="email">E-mail</label>
+    <
+      <label><textarea name="fields[message]"></textarea>Message</label>
 
-  <button type="submit">Go!</button>
-</form>
+      <button type="submit">Leave add your comment</button>
+    </form>
+  </div>
 </div>
 </div>
 {% include footer.html %}
