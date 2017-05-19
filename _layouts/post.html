@@ -14,7 +14,7 @@
   <h3>Comments</h3>
 
 {% if site.data.comments[page.slug] %}
-  {% assign comments = site.data.comments[page.slug] | sort %}
+  {% assign comments = site.data.comments[page.slug] | sort | reverse %}
   {% for comment in comments %}
     <div class="comment">
       <h4>Comment by: <em>{{comment[1].name}}</em> on <em>{{comment[1].date | date: "%a: %b %d, %Y" }}</em></h4>
